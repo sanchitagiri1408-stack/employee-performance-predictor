@@ -1,0 +1,16 @@
+column,dtype,row_count,missing_count,missing_pct,unique_count,duplicate_rows_in_dataset,min_value,max_value
+employee_id,object,1000,0,0.0,1000,0,,
+age,int64,1000,0,0.0,41,0,21.0,62.0
+department,object,1000,0,0.0,5,0,,
+job_level,object,1000,0,0.0,4,0,,
+years_at_company,float64,1000,0,0.0,154,0,0.0,18.1
+monthly_income,int64,1000,0,0.0,909,0,2200.0,11486.0
+overtime,object,1000,0,0.0,2,0,,
+job_satisfaction,int64,1000,0,0.0,5,0,1.0,5.0
+work_life_balance,int64,1000,0,0.0,5,0,1.0,5.0
+training_hours_last_year,float64,1000,0,0.0,387,0,2.0,62.3
+projects_completed,int64,1000,0,0.0,13,0,0.0,12.0
+absenteeism_days,int64,1000,0,0.0,16,0,0.0,15.0
+remote_work,object,1000,0,0.0,2,0,,
+promotion_last_3_years,int64,1000,0,0.0,2,0,0.0,1.0
+performance_label,object,1000,0,0.0,2,0,,

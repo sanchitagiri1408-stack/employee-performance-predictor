@@ -1,0 +1,1001 @@
+employee_id,age,department,job_level,years_at_company,monthly_income,overtime,job_satisfaction,work_life_balance,training_hours_last_year,projects_completed,absenteeism_days,remote_work,promotion_last_3_years,performance_label
+EMP00001,27,Finance,Entry,0.0,2200,No,2,5,15.4,5,4,No,1,High
+EMP00002,44,Sales,Mid,6.5,5048,Yes,2,3,48.1,2,5,Yes,1,Needs Improvement
+EMP00003,26,Finance,Entry,2.1,3475,No,5,4,8.7,3,4,Yes,0,High
+EMP00004,32,Operations,Entry,2.3,2696,No,3,4,9.7,1,6,No,1,High
+EMP00005,34,Engineering,Mid,10.1,5499,Yes,4,3,32.7,3,6,Yes,0,Needs Improvement
+EMP00006,39,Human Resources,Mid,2.0,5475,No,3,3,43.2,2,3,Yes,1,High
+EMP00007,42,Finance,Lead,11.9,10527,No,4,4,34.9,6,7,No,0,Needs Improvement
+EMP00008,36,Finance,Mid,6.0,5618,Yes,2,4,37.0,3,5,Yes,0,High
+EMP00009,40,Engineering,Senior,6.8,7090,No,3,2,10.0,8,8,Yes,0,Needs Improvement
+EMP00010,33,Sales,Mid,5.3,5146,No,3,2,22.0,2,4,No,0,High
+EMP00011,41,Sales,Mid,1.2,4310,No,5,1,8.3,6,2,No,0,High
+EMP00012,40,Human Resources,Mid,8.7,5227,No,4,4,34.8,1,6,Yes,0,Needs Improvement
+EMP00013,37,Operations,Mid,3.5,4500,No,3,3,11.5,3,5,Yes,0,High
+EMP00014,43,Finance,Lead,17.1,10249,No,4,3,20.2,4,11,No,1,Needs Improvement
+EMP00015,44,Sales,Mid,5.1,4721,No,5,2,32.1,7,5,Yes,0,High
+EMP00016,32,Engineering,Entry,4.4,2512,No,2,2,34.6,4,2,Yes,0,Needs Improvement
+EMP00017,36,Operations,Mid,5.1,5348,No,2,3,25.4,2,5,No,0,High
+EMP00018,43,Engineering,Senior,8.5,7665,No,3,3,35.7,1,4,No,1,High
+EMP00019,46,Finance,Entry,0.3,3591,No,3,3,29.4,4,6,No,0,Needs Improvement
+EMP00020,29,Operations,Mid,5.5,4958,No,3,4,24.8,5,3,Yes,0,High
+EMP00021,47,Finance,Senior,9.4,7817,No,2,5,19.1,4,8,Yes,0,High
+EMP00022,29,Sales,Senior,6.6,7447,No,5,3,35.6,6,0,No,0,High
+EMP00023,48,Human Resources,Lead,11.7,9703,No,2,4,39.1,5,6,No,0,High
+EMP00024,49,Human Resources,Mid,3.7,5422,No,3,2,35.9,4,5,Yes,0,Needs Improvement
+EMP00025,41,Finance,Mid,10.9,6409,No,4,2,30.1,3,9,No,0,High
+EMP00026,39,Engineering,Mid,5.0,5389,No,3,3,15.3,7,8,Yes,0,High
+EMP00027,42,Sales,Lead,15.9,10269,Yes,2,2,39.9,6,5,No,0,High
+EMP00028,38,Engineering,Mid,4.7,5006,No,2,3,27.0,6,5,No,0,High
+EMP00029,40,Engineering,Senior,9.2,6958,No,3,3,25.2,4,4,No,1,High
+EMP00030,32,Operations,Mid,1.9,4404,No,3,2,24.1,4,7,No,0,Needs Improvement
+EMP00031,36,Finance,Mid,4.1,4792,Yes,3,5,20.1,6,3,No,0,High
+EMP00032,43,Human Resources,Senior,9.1,7067,No,2,3,38.9,4,2,Yes,0,High
+EMP00033,33,Sales,Mid,9.2,6012,No,4,2,12.8,7,4,Yes,0,High
+EMP00034,36,Sales,Senior,9.2,8240,No,3,4,20.1,6,4,No,1,High
+EMP00035,28,Sales,Mid,8.7,5270,Yes,3,3,23.7,1,4,Yes,1,High
+EMP00036,41,Engineering,Mid,6.8,5610,No,5,4,43.1,9,9,No,0,High
+EMP00037,42,Engineering,Mid,9.3,5288,No,3,3,37.5,3,2,Yes,0,High
+EMP00038,40,Sales,Mid,5.1,5086,No,3,3,10.6,4,8,No,0,Needs Improvement
+EMP00039,45,Engineering,Mid,11.2,5717,Yes,3,3,40.5,2,5,No,0,High
+EMP00040,35,Operations,Entry,0.6,3082,No,3,4,37.5,5,5,No,0,High
+EMP00041,37,Sales,Entry,0.0,2361,No,3,4,12.3,2,9,No,0,Needs Improvement
+EMP00042,40,Finance,Mid,2.2,5353,No,3,3,2.0,7,5,Yes,0,Needs Improvement
+EMP00043,37,Operations,Mid,11.0,5912,Yes,1,4,26.3,8,9,No,0,Needs Improvement
+EMP00044,34,Sales,Mid,7.2,5197,No,3,4,38.2,4,7,Yes,0,High
+EMP00045,49,Finance,Entry,1.0,2208,No,4,3,39.9,5,10,Yes,0,High
+EMP00046,35,Finance,Mid,8.3,5797,No,3,3,18.3,1,4,Yes,0,High
+EMP00047,29,Sales,Entry,3.5,3620,No,4,2,41.5,4,7,No,0,High
+EMP00048,45,Sales,Senior,13.5,8359,No,5,4,7.7,2,6,Yes,0,High
+EMP00049,44,Operations,Senior,4.7,8154,No,4,3,26.3,4,6,Yes,0,High
+EMP00050,24,Engineering,Entry,1.1,3563,Yes,5,3,19.8,3,8,Yes,0,High
+EMP00051,46,Engineering,Mid,4.0,4936,No,4,4,38.5,6,2,Yes,0,High
+EMP00052,33,Engineering,Entry,0.0,2541,Yes,5,2,37.0,5,5,Yes,0,Needs Improvement
+EMP00053,26,Finance,Entry,4.5,3542,No,5,5,33.5,2,6,No,0,High
+EMP00054,42,Operations,Entry,1.1,2429,No,4,3,10.5,5,5,Yes,0,High
+EMP00055,38,Operations,Entry,3.6,3769,No,4,3,32.6,2,1,Yes,0,High
+EMP00056,29,Finance,Mid,11.1,6229,Yes,3,3,32.1,3,9,No,0,Needs Improvement
+EMP00057,54,Sales,Senior,7.7,7568,Yes,3,2,13.3,4,6,No,0,Needs Improvement
+EMP00058,39,Operations,Entry,0.7,3138,No,3,3,3.3,3,6,Yes,0,High
+EMP00059,38,Engineering,Mid,5.5,6154,No,4,3,37.4,2,3,Yes,0,Needs Improvement
+EMP00060,53,Engineering,Senior,11.1,7984,No,3,4,28.2,5,5,Yes,0,High
+EMP00061,47,Operations,Lead,10.6,9624,Yes,3,3,20.1,8,7,No,0,High
+EMP00062,38,Sales,Mid,3.6,5790,Yes,1,1,24.9,2,9,Yes,0,High
+EMP00063,29,Operations,Entry,4.4,3778,Yes,5,2,27.6,4,10,Yes,1,High
+EMP00064,42,Finance,Mid,6.1,5213,No,3,5,26.2,4,4,No,0,High
+EMP00065,41,Operations,Mid,0.1,4566,No,4,2,11.5,3,4,Yes,0,High
+EMP00066,46,Operations,Lead,8.9,9549,No,5,4,51.9,6,5,Yes,1,High
+EMP00067,32,Operations,Mid,9.0,5946,No,4,2,37.0,5,7,Yes,0,High
+EMP00068,43,Sales,Senior,9.6,7018,No,5,3,26.6,5,4,No,0,High
+EMP00069,34,Engineering,Entry,0.0,2200,No,2,4,21.0,4,7,No,0,Needs Improvement
+EMP00070,29,Sales,Mid,4.8,4754,No,5,3,30.6,3,0,No,0,High
+EMP00071,32,Engineering,Senior,8.6,7079,No,4,5,18.7,10,15,No,0,High
+EMP00072,42,Sales,Mid,7.0,5173,No,3,3,30.2,5,5,Yes,0,High
+EMP00073,21,Finance,Mid,1.8,5110,No,5,4,13.7,1,4,No,0,High
+EMP00074,47,Engineering,Lead,9.9,9502,Yes,2,3,32.3,6,14,No,0,Needs Improvement
+EMP00075,39,Engineering,Senior,9.3,7754,No,3,4,18.3,5,6,No,0,High
+EMP00076,47,Sales,Mid,5.0,4613,Yes,5,5,15.8,5,5,No,0,High
+EMP00077,35,Sales,Mid,6.6,5210,No,2,3,43.5,3,3,Yes,0,High
+EMP00078,43,Operations,Mid,2.1,5127,Yes,4,5,27.6,5,5,Yes,0,High
+EMP00079,35,Operations,Mid,6.1,5671,Yes,4,3,29.1,5,7,No,0,Needs Improvement
+EMP00080,39,Finance,Mid,7.9,5254,Yes,5,4,6.9,6,2,Yes,0,Needs Improvement
+EMP00081,39,Operations,Entry,3.0,3186,No,2,4,18.0,1,5,No,0,Needs Improvement
+EMP00082,39,Sales,Senior,8.9,8701,No,5,2,34.6,6,4,Yes,1,High
+EMP00083,53,Finance,Lead,11.8,9834,No,3,3,34.9,7,7,Yes,0,Needs Improvement
+EMP00084,35,Engineering,Senior,6.5,6931,No,3,3,8.5,9,8,No,0,High
+EMP00085,48,Engineering,Lead,11.8,9756,No,2,2,35.1,6,6,No,1,High
+EMP00086,48,Engineering,Senior,11.7,8026,No,2,4,33.7,4,7,No,0,Needs Improvement
+EMP00087,47,Finance,Senior,8.3,7445,Yes,4,3,42.8,7,7,Yes,1,High
+EMP00088,55,Sales,Senior,6.4,7248,No,2,3,23.4,9,7,No,0,Needs Improvement
+EMP00089,33,Engineering,Mid,4.0,4368,No,4,3,4.6,4,3,No,0,Needs Improvement
+EMP00090,28,Operations,Mid,5.7,4838,No,3,3,17.0,7,4,No,0,High
+EMP00091,27,Engineering,Entry,0.9,2747,No,2,3,13.0,5,8,No,0,High
+EMP00092,43,Operations,Mid,6.4,5331,No,3,3,34.4,6,2,No,0,High
+EMP00093,37,Sales,Entry,3.1,2835,Yes,4,3,2.0,4,7,Yes,0,Needs Improvement
+EMP00094,35,Sales,Entry,4.0,3151,No,3,5,19.5,8,9,No,0,High
+EMP00095,30,Sales,Mid,8.8,5769,No,3,2,41.3,4,1,No,1,Needs Improvement
+EMP00096,43,Operations,Mid,7.7,6034,No,4,3,27.1,5,5,No,0,Needs Improvement
+EMP00097,25,Sales,Entry,0.0,2650,No,4,3,33.0,4,7,No,0,Needs Improvement
+EMP00098,50,Engineering,Senior,6.3,7450,Yes,3,5,13.6,2,8,No,0,High
+EMP00099,62,Engineering,Senior,8.4,7263,Yes,2,2,14.0,2,2,No,1,High
+EMP00100,37,Human Resources,Entry,0.7,3081,Yes,3,4,38.4,7,4,No,0,High
+EMP00101,38,Human Resources,Entry,0.0,2888,Yes,4,3,25.0,9,9,No,0,Needs Improvement
+EMP00102,35,Operations,Mid,4.1,5536,Yes,2,3,28.0,4,9,Yes,0,High
+EMP00103,29,Engineering,Senior,7.4,7756,No,2,4,18.8,7,5,Yes,0,High
+EMP00104,38,Human Resources,Senior,6.9,7626,No,3,4,31.0,5,5,No,0,High
+EMP00105,26,Finance,Entry,1.0,2786,No,3,3,12.5,5,3,Yes,0,High
+EMP00106,32,Operations,Senior,11.5,8075,No,3,3,41.9,4,5,No,0,High
+EMP00107,46,Sales,Entry,2.3,3542,Yes,4,2,51.3,2,4,No,0,Needs Improvement
+EMP00108,40,Engineering,Mid,11.4,5763,No,2,3,31.8,1,5,No,0,High
+EMP00109,49,Engineering,Lead,12.4,9610,Yes,2,3,26.7,10,9,Yes,1,High
+EMP00110,32,Human Resources,Entry,1.1,2939,No,3,3,2.0,4,3,No,0,High
+EMP00111,33,Sales,Entry,1.8,3151,Yes,3,2,7.2,2,7,No,0,High
+EMP00112,45,Engineering,Mid,5.8,4921,No,2,4,42.5,6,5,Yes,0,High
+EMP00113,38,Sales,Mid,6.3,5363,No,3,2,16.7,3,5,No,1,High
+EMP00114,50,Operations,Lead,17.2,10525,No,3,3,29.3,9,4,No,0,High
+EMP00115,45,Engineering,Lead,9.9,8479,No,3,2,39.6,6,13,No,1,Needs Improvement
+EMP00116,32,Finance,Entry,3.9,3117,No,3,2,38.8,3,8,Yes,0,Needs Improvement
+EMP00117,24,Finance,Entry,2.3,2932,Yes,3,4,22.0,5,5,Yes,0,High
+EMP00118,28,Operations,Senior,4.7,6954,No,5,4,26.0,6,6,No,0,High
+EMP00119,32,Sales,Entry,3.7,3907,No,4,4,24.7,1,4,Yes,0,Needs Improvement
+EMP00120,42,Operations,Senior,11.8,7385,No,3,5,23.7,6,2,No,0,High
+EMP00121,29,Operations,Mid,3.1,4556,No,3,3,21.3,4,5,No,0,High
+EMP00122,34,Operations,Entry,1.8,2200,No,3,4,28.1,2,2,Yes,0,High
+EMP00123,42,Engineering,Senior,4.3,6740,No,4,2,31.9,5,8,No,1,High
+EMP00124,21,Sales,Entry,0.0,2502,No,3,4,45.3,3,4,No,0,High
+EMP00125,32,Engineering,Mid,7.8,5348,Yes,4,3,31.4,3,10,No,0,High
+EMP00126,41,Sales,Mid,4.0,5644,Yes,3,2,38.5,3,5,No,0,Needs Improvement
+EMP00127,41,Sales,Mid,2.4,5304,Yes,5,4,16.3,6,5,No,0,Needs Improvement
+EMP00128,34,Engineering,Senior,9.2,7681,No,5,4,35.3,4,7,Yes,0,High
+EMP00129,39,Engineering,Mid,3.9,4891,Yes,3,4,19.8,3,9,Yes,0,Needs Improvement
+EMP00130,53,Operations,Lead,10.8,10221,Yes,3,3,37.0,8,7,No,1,Needs Improvement
+EMP00131,51,Engineering,Lead,13.8,10103,Yes,4,3,39.9,10,9,No,1,High
+EMP00132,37,Human Resources,Mid,2.3,4451,No,3,4,27.5,4,7,Yes,0,High
+EMP00133,31,Operations,Entry,0.0,2200,Yes,5,3,48.1,2,2,Yes,0,High
+EMP00134,38,Sales,Senior,9.0,7394,Yes,3,4,44.3,4,9,No,1,Needs Improvement
+EMP00135,49,Operations,Lead,14.4,10571,No,3,3,44.8,8,5,Yes,0,High
+EMP00136,39,Engineering,Mid,8.3,6809,Yes,3,4,34.6,8,4,No,0,High
+EMP00137,42,Human Resources,Mid,3.5,5053,No,2,2,44.6,6,5,No,0,Needs Improvement
+EMP00138,39,Sales,Mid,7.5,5180,No,4,3,12.6,2,8,No,0,High
+EMP00139,40,Finance,Entry,0.0,2200,No,3,2,37.7,2,8,Yes,0,High
+EMP00140,39,Engineering,Mid,9.8,6149,No,4,3,17.1,2,10,Yes,0,Needs Improvement
+EMP00141,43,Sales,Mid,2.4,3992,No,2,5,21.4,2,7,No,1,Needs Improvement
+EMP00142,48,Sales,Senior,11.9,8282,Yes,3,3,35.6,10,8,No,1,High
+EMP00143,36,Human Resources,Senior,7.0,7754,No,4,3,42.3,5,6,Yes,0,High
+EMP00144,29,Operations,Senior,13.6,8454,Yes,1,4,18.5,8,4,No,0,Needs Improvement
+EMP00145,49,Sales,Mid,6.7,5345,Yes,5,1,21.9,6,5,No,1,High
+EMP00146,40,Engineering,Mid,2.7,5197,No,3,3,28.0,8,7,Yes,0,Needs Improvement
+EMP00147,30,Sales,Senior,7.3,7471,Yes,3,4,28.1,10,5,No,0,High
+EMP00148,37,Operations,Senior,10.6,7442,Yes,4,1,38.5,7,3,Yes,0,High
+EMP00149,43,Sales,Mid,7.8,6528,No,4,2,61.4,7,7,No,0,High
+EMP00150,40,Engineering,Senior,8.4,7358,No,4,4,34.2,4,8,Yes,1,Needs Improvement
+EMP00151,30,Finance,Entry,1.9,3344,Yes,4,4,16.6,2,7,No,0,Needs Improvement
+EMP00152,52,Human Resources,Senior,10.5,6608,Yes,4,4,17.0,7,4,Yes,0,High
+EMP00153,27,Engineering,Entry,2.1,3622,Yes,5,4,20.7,7,7,No,0,High
+EMP00154,28,Operations,Entry,0.0,3434,Yes,4,3,14.6,6,7,No,0,Needs Improvement
+EMP00155,39,Engineering,Mid,3.2,4997,No,5,4,31.7,8,3,No,0,High
+EMP00156,37,Operations,Entry,2.4,3303,No,4,3,28.5,5,4,No,0,High
+EMP00157,37,Sales,Entry,4.8,3627,No,2,3,19.4,2,9,No,0,Needs Improvement
+EMP00158,40,Operations,Entry,5.8,3162,No,5,3,43.8,6,4,Yes,0,High
+EMP00159,39,Finance,Mid,7.1,5782,No,3,4,19.6,9,5,Yes,1,Needs Improvement
+EMP00160,45,Finance,Senior,9.3,7251,No,5,4,28.8,6,4,Yes,1,High
+EMP00161,32,Engineering,Entry,3.7,2895,Yes,3,4,30.4,5,6,No,0,Needs Improvement
+EMP00162,38,Human Resources,Mid,3.5,5586,Yes,4,3,35.9,3,10,No,0,Needs Improvement
+EMP00163,43,Engineering,Senior,8.2,7994,No,3,2,42.8,4,4,No,0,High
+EMP00164,36,Engineering,Entry,0.0,2347,No,4,4,28.3,5,1,No,0,High
+EMP00165,39,Operations,Entry,0.0,2333,Yes,3,4,34.5,4,2,No,0,High
+EMP00166,46,Sales,Senior,9.4,7346,No,5,3,23.3,6,7,Yes,0,Needs Improvement
+EMP00167,42,Finance,Senior,9.1,7995,No,4,3,39.2,9,8,Yes,0,High
+EMP00168,32,Finance,Mid,6.9,4982,Yes,4,4,36.0,2,7,No,0,High
+EMP00169,42,Sales,Senior,10.0,7928,No,1,2,45.1,4,5,Yes,0,Needs Improvement
+EMP00170,34,Human Resources,Entry,2.4,3397,No,3,4,7.3,5,8,Yes,0,High
+EMP00171,39,Sales,Mid,6.6,5397,No,4,4,17.9,4,8,No,0,High
+EMP00172,57,Operations,Senior,8.5,8053,Yes,4,5,38.2,5,9,No,0,High
+EMP00173,30,Engineering,Entry,2.8,2926,Yes,4,4,2.0,4,7,No,0,Needs Improvement
+EMP00174,45,Human Resources,Senior,6.8,7211,No,3,2,34.9,4,4,Yes,0,High
+EMP00175,45,Engineering,Mid,6.1,4885,No,3,3,37.6,3,7,No,1,Needs Improvement
+EMP00176,43,Engineering,Senior,10.3,8299,Yes,4,5,24.2,8,5,Yes,0,High
+EMP00177,54,Sales,Mid,3.5,4639,Yes,1,2,22.7,2,7,No,0,Needs Improvement
+EMP00178,35,Human Resources,Mid,5.3,5440,No,4,3,16.3,2,7,Yes,0,High
+EMP00179,36,Human Resources,Entry,0.2,2691,No,3,4,18.8,2,13,No,0,Needs Improvement
+EMP00180,28,Finance,Entry,0.5,2241,No,2,4,19.1,2,5,No,0,Needs Improvement
+EMP00181,40,Human Resources,Senior,5.8,6878,No,4,5,23.2,3,7,No,1,High
+EMP00182,36,Human Resources,Entry,5.0,4066,No,4,3,16.6,2,7,Yes,0,High
+EMP00183,40,Operations,Entry,4.5,3408,No,4,2,21.3,5,7,No,0,High
+EMP00184,36,Sales,Entry,3.1,2614,Yes,3,4,21.2,4,6,Yes,0,High
+EMP00185,43,Finance,Entry,6.7,3757,No,4,2,42.7,8,1,No,0,High
+EMP00186,41,Operations,Senior,8.1,7420,No,4,3,26.1,3,4,Yes,0,High
+EMP00187,36,Sales,Mid,12.8,8005,Yes,3,3,30.4,5,9,Yes,1,Needs Improvement
+EMP00188,62,Engineering,Lead,11.4,9932,No,3,4,27.2,5,5,No,1,High
+EMP00189,37,Finance,Entry,2.4,2834,No,3,4,18.1,1,4,No,0,High
+EMP00190,33,Engineering,Mid,4.2,5827,Yes,4,4,10.0,2,13,No,0,High
+EMP00191,33,Human Resources,Mid,6.1,4453,No,3,3,11.3,3,3,Yes,0,High
+EMP00192,31,Engineering,Mid,7.3,5583,No,2,4,14.9,6,4,No,0,High
+EMP00193,49,Engineering,Senior,8.3,8518,No,2,5,31.8,2,7,Yes,0,Needs Improvement
+EMP00194,43,Finance,Lead,16.4,10406,No,4,4,43.8,6,7,Yes,0,High
+EMP00195,43,Engineering,Senior,9.2,6775,No,3,3,12.1,3,3,No,1,High
+EMP00196,34,Engineering,Entry,2.5,2840,No,4,2,18.5,3,6,Yes,0,High
+EMP00197,39,Operations,Entry,0.0,3427,No,4,3,10.3,4,5,No,0,High
+EMP00198,32,Finance,Mid,6.2,5575,No,2,3,24.4,5,5,Yes,0,High
+EMP00199,26,Engineering,Entry,1.5,2483,No,3,3,34.8,4,8,Yes,0,High
+EMP00200,44,Sales,Senior,7.1,7016,No,3,3,25.5,5,3,No,0,High
+EMP00201,42,Finance,Mid,3.3,4716,No,4,5,26.5,2,6,Yes,0,High
+EMP00202,40,Human Resources,Mid,11.9,6337,No,4,4,41.6,3,4,No,0,High
+EMP00203,36,Operations,Senior,7.9,8136,Yes,2,3,34.6,4,7,No,1,High
+EMP00204,47,Engineering,Senior,5.0,7601,No,4,2,22.4,3,3,Yes,0,High
+EMP00205,29,Engineering,Entry,0.1,2942,No,4,4,25.6,2,7,No,0,High
+EMP00206,30,Engineering,Entry,1.7,2264,No,3,3,15.7,2,5,Yes,0,Needs Improvement
+EMP00207,31,Engineering,Mid,6.6,4777,No,3,2,31.2,2,8,No,0,High
+EMP00208,47,Operations,Mid,6.6,5708,No,4,4,32.2,2,3,Yes,0,High
+EMP00209,38,Engineering,Entry,3.5,2500,Yes,4,4,10.3,2,8,No,0,Needs Improvement
+EMP00210,42,Operations,Mid,3.6,4923,Yes,4,1,28.8,7,10,No,0,High
+EMP00211,51,Operations,Senior,9.5,7835,No,4,2,28.8,8,8,No,1,High
+EMP00212,62,Operations,Senior,6.4,6695,No,2,3,35.4,7,8,No,0,Needs Improvement
+EMP00213,26,Engineering,Mid,3.7,4537,No,4,4,35.3,4,5,Yes,0,High
+EMP00214,33,Finance,Mid,2.9,4894,No,4,3,31.8,2,5,No,0,High
+EMP00215,30,Operations,Entry,0.0,2952,No,3,2,21.0,0,3,No,0,High
+EMP00216,32,Finance,Mid,7.9,6147,No,2,4,36.3,4,6,No,0,High
+EMP00217,30,Engineering,Mid,6.9,5785,No,3,3,18.3,4,4,No,0,Needs Improvement
+EMP00218,36,Engineering,Mid,7.6,5613,No,3,4,13.8,6,6,No,1,High
+EMP00219,29,Human Resources,Mid,5.3,4892,No,2,2,2.0,1,7,Yes,0,Needs Improvement
+EMP00220,36,Sales,Entry,3.7,2664,No,3,2,23.3,4,4,No,0,High
+EMP00221,34,Sales,Entry,0.0,2445,No,2,4,15.8,3,5,No,0,High
+EMP00222,37,Sales,Entry,4.0,3445,Yes,4,3,28.0,2,4,No,0,Needs Improvement
+EMP00223,46,Operations,Senior,9.0,7783,Yes,3,4,10.3,3,7,Yes,1,High
+EMP00224,42,Human Resources,Mid,6.8,4418,Yes,2,3,20.5,2,6,No,0,High
+EMP00225,31,Sales,Entry,2.8,2685,No,4,3,28.7,3,4,Yes,0,High
+EMP00226,57,Human Resources,Senior,6.1,7826,No,3,4,19.7,8,5,No,0,High
+EMP00227,40,Engineering,Mid,1.5,4792,No,4,2,31.1,3,5,No,0,Needs Improvement
+EMP00228,25,Operations,Mid,3.4,4300,No,3,4,21.4,2,9,Yes,0,Needs Improvement
+EMP00229,39,Operations,Lead,13.4,11237,Yes,3,4,32.7,6,3,No,0,High
+EMP00230,22,Engineering,Entry,3.5,3158,No,3,4,30.0,3,3,Yes,0,High
+EMP00231,34,Engineering,Entry,0.0,2892,No,3,3,33.5,3,4,No,0,Needs Improvement
+EMP00232,37,Sales,Mid,2.7,5114,No,3,3,27.9,7,8,No,0,High
+EMP00233,31,Human Resources,Entry,0.0,2516,Yes,3,3,15.9,4,7,Yes,0,Needs Improvement
+EMP00234,52,Operations,Mid,4.3,4767,No,3,2,22.4,5,10,No,0,Needs Improvement
+EMP00235,38,Human Resources,Entry,0.0,3761,No,3,2,30.4,1,2,Yes,0,Needs Improvement
+EMP00236,39,Finance,Entry,0.0,3202,Yes,3,4,13.8,9,7,No,0,High
+EMP00237,27,Sales,Entry,0.0,3111,No,5,4,22.2,2,5,No,0,High
+EMP00238,31,Finance,Mid,5.4,5567,No,3,2,23.1,3,7,Yes,0,Needs Improvement
+EMP00239,34,Engineering,Entry,0.0,2200,No,3,4,23.0,2,4,No,0,Needs Improvement
+EMP00240,35,Engineering,Entry,1.5,3541,No,5,4,13.9,5,5,No,0,High
+EMP00241,29,Finance,Senior,11.2,7490,Yes,4,4,11.5,5,4,No,0,High
+EMP00242,37,Finance,Mid,1.9,4948,No,2,4,32.2,1,7,No,0,Needs Improvement
+EMP00243,38,Engineering,Mid,4.7,4365,No,4,4,36.6,7,11,No,0,High
+EMP00244,32,Operations,Entry,4.4,2274,No,2,4,6.1,1,5,No,0,Needs Improvement
+EMP00245,32,Operations,Mid,4.2,5276,Yes,4,4,30.7,1,7,Yes,0,High
+EMP00246,30,Finance,Entry,0.4,2349,No,3,2,34.8,1,5,Yes,0,High
+EMP00247,37,Operations,Mid,8.1,4649,No,3,3,33.0,6,5,No,0,Needs Improvement
+EMP00248,35,Sales,Entry,1.0,3105,Yes,5,3,19.8,4,5,Yes,0,Needs Improvement
+EMP00249,46,Sales,Senior,11.4,8999,Yes,4,3,20.6,1,8,No,0,Needs Improvement
+EMP00250,54,Sales,Lead,13.1,10713,Yes,4,4,33.8,1,6,Yes,1,High
+EMP00251,32,Operations,Entry,0.9,2693,No,4,4,26.5,6,10,No,0,High
+EMP00252,31,Finance,Entry,3.0,3109,No,3,4,25.0,5,6,No,0,High
+EMP00253,37,Sales,Entry,2.6,3495,No,4,3,22.2,2,9,No,0,High
+EMP00254,42,Engineering,Mid,7.8,6164,No,4,3,16.2,1,3,Yes,0,Needs Improvement
+EMP00255,31,Engineering,Entry,0.4,2582,No,3,4,28.2,2,5,No,0,High
+EMP00256,48,Finance,Senior,8.7,7592,No,5,3,34.7,8,3,No,0,High
+EMP00257,49,Finance,Senior,8.4,7684,Yes,4,2,32.0,1,9,No,0,Needs Improvement
+EMP00258,51,Engineering,Senior,10.4,8081,Yes,4,3,31.1,5,7,No,0,High
+EMP00259,50,Engineering,Mid,2.6,4834,No,4,2,43.8,4,0,No,0,High
+EMP00260,40,Operations,Lead,14.5,10147,No,3,3,26.8,4,3,Yes,0,High
+EMP00261,34,Engineering,Entry,3.0,3795,No,2,3,36.8,4,6,No,1,High
+EMP00262,38,Finance,Mid,1.9,5411,No,3,3,19.7,3,2,Yes,0,Needs Improvement
+EMP00263,37,Sales,Mid,8.2,5896,No,4,5,38.1,3,4,Yes,0,High
+EMP00264,41,Engineering,Lead,17.6,11486,Yes,3,2,45.3,5,8,No,0,High
+EMP00265,28,Human Resources,Mid,7.7,5396,No,4,4,24.1,5,3,No,0,Needs Improvement
+EMP00266,43,Engineering,Senior,12.2,8858,Yes,3,5,46.6,4,3,No,1,Needs Improvement
+EMP00267,29,Sales,Entry,2.0,3241,No,4,4,28.7,5,10,No,0,Needs Improvement
+EMP00268,47,Engineering,Lead,7.8,10939,No,4,3,24.2,5,8,No,0,Needs Improvement
+EMP00269,32,Engineering,Mid,0.6,4035,No,3,2,23.3,9,7,Yes,0,Needs Improvement
+EMP00270,30,Engineering,Mid,5.8,4988,Yes,2,2,38.3,4,4,No,0,Needs Improvement
+EMP00271,48,Engineering,Lead,10.5,9877,No,5,3,42.2,7,6,No,0,High
+EMP00272,39,Engineering,Mid,2.9,5140,No,3,3,16.4,4,4,No,0,High
+EMP00273,42,Engineering,Mid,5.0,6200,No,3,3,25.6,5,4,No,0,Needs Improvement
+EMP00274,53,Operations,Mid,6.7,5120,Yes,3,3,29.0,4,7,No,0,Needs Improvement
+EMP00275,36,Operations,Entry,0.0,3152,No,3,3,18.9,2,5,No,1,Needs Improvement
+EMP00276,41,Sales,Mid,4.1,5685,No,5,4,50.6,1,2,No,0,High
+EMP00277,26,Sales,Entry,5.6,3808,No,5,2,26.3,2,3,No,0,Needs Improvement
+EMP00278,25,Operations,Entry,0.0,2220,No,4,3,23.4,4,11,No,0,Needs Improvement
+EMP00279,53,Finance,Senior,10.8,8562,No,3,3,41.9,6,4,Yes,0,High
+EMP00280,32,Finance,Mid,4.0,5705,No,4,3,23.3,4,6,No,0,High
+EMP00281,31,Engineering,Mid,6.6,5741,No,3,5,37.1,3,2,Yes,0,High
+EMP00282,38,Engineering,Mid,7.9,5719,No,3,3,10.3,7,7,No,0,High
+EMP00283,37,Engineering,Mid,7.1,5622,No,4,2,22.5,5,7,No,0,High
+EMP00284,32,Engineering,Mid,7.5,5523,No,3,4,37.5,6,5,No,0,High
+EMP00285,44,Operations,Lead,9.1,9799,No,4,4,48.7,7,4,Yes,0,High
+EMP00286,55,Sales,Lead,14.8,10264,Yes,3,3,25.3,11,6,No,0,Needs Improvement
+EMP00287,32,Engineering,Mid,3.1,4544,Yes,4,2,18.1,4,4,No,0,Needs Improvement
+EMP00288,28,Sales,Mid,5.8,4809,No,3,5,32.7,7,6,Yes,0,High
+EMP00289,45,Operations,Mid,5.8,4957,No,4,2,20.8,4,6,No,0,High
+EMP00290,41,Engineering,Mid,6.4,5525,No,2,4,24.3,7,3,Yes,0,Needs Improvement
+EMP00291,34,Finance,Mid,6.0,5347,No,3,3,35.8,3,6,No,0,Needs Improvement
+EMP00292,27,Engineering,Mid,3.1,5076,No,3,4,21.6,3,5,Yes,0,High
+EMP00293,33,Human Resources,Mid,1.8,5043,No,2,5,7.3,3,6,No,1,High
+EMP00294,38,Engineering,Mid,7.4,5235,No,4,4,14.0,7,9,No,0,Needs Improvement
+EMP00295,46,Finance,Mid,5.7,6052,Yes,2,3,27.1,3,4,No,0,Needs Improvement
+EMP00296,31,Human Resources,Mid,8.1,5510,No,3,4,8.4,3,7,Yes,0,Needs Improvement
+EMP00297,33,Human Resources,Entry,1.7,2713,Yes,4,3,21.0,4,6,No,0,Needs Improvement
+EMP00298,39,Finance,Entry,0.0,2941,No,3,3,10.1,9,6,No,0,High
+EMP00299,25,Finance,Senior,11.0,6967,No,3,2,46.4,4,4,Yes,0,Needs Improvement
+EMP00300,45,Operations,Mid,4.3,4735,No,2,2,48.7,6,5,Yes,0,High
+EMP00301,26,Finance,Entry,2.7,3555,Yes,4,3,13.4,4,11,Yes,0,High
+EMP00302,40,Engineering,Mid,3.6,4167,No,4,4,29.6,2,5,No,0,High
+EMP00303,44,Operations,Senior,12.7,8673,Yes,4,2,20.4,4,8,Yes,0,High
+EMP00304,42,Operations,Entry,0.0,3456,No,4,4,20.9,3,5,No,0,High
+EMP00305,46,Finance,Senior,7.8,7268,Yes,3,3,48.0,2,4,No,0,Needs Improvement
+EMP00306,29,Sales,Lead,12.3,10056,No,3,4,28.3,0,2,No,0,High
+EMP00307,33,Sales,Mid,2.5,5447,No,3,3,24.1,3,2,No,0,Needs Improvement
+EMP00308,39,Operations,Mid,6.0,5127,Yes,5,2,17.6,4,8,No,0,High
+EMP00309,33,Engineering,Entry,5.8,3917,Yes,4,3,35.5,3,5,Yes,0,Needs Improvement
+EMP00310,49,Engineering,Lead,10.8,9372,No,3,2,2.0,8,5,No,0,High
+EMP00311,44,Sales,Mid,6.2,5148,Yes,3,4,22.6,7,7,Yes,0,High
+EMP00312,50,Sales,Lead,5.1,8539,Yes,3,3,32.5,10,6,Yes,0,High
+EMP00313,37,Engineering,Mid,5.1,5410,No,2,3,20.4,3,5,No,0,Needs Improvement
+EMP00314,21,Sales,Entry,1.0,3414,No,3,4,32.6,5,5,Yes,1,High
+EMP00315,31,Sales,Entry,0.0,2608,No,3,2,36.0,1,2,Yes,0,High
+EMP00316,45,Sales,Senior,11.3,7290,No,2,2,15.9,4,4,No,0,High
+EMP00317,30,Sales,Mid,4.4,4603,No,2,4,47.9,4,7,Yes,0,High
+EMP00318,38,Operations,Entry,1.4,3086,No,2,2,9.8,7,2,Yes,0,High
+EMP00319,48,Sales,Senior,7.7,8362,No,3,2,42.9,2,14,No,0,Needs Improvement
+EMP00320,43,Human Resources,Senior,3.8,7110,No,3,4,31.5,5,8,No,0,High
+EMP00321,21,Human Resources,Mid,2.4,4681,No,2,4,22.0,9,4,No,0,Needs Improvement
+EMP00322,29,Sales,Mid,7.6,5959,No,4,2,22.9,3,6,Yes,0,Needs Improvement
+EMP00323,47,Sales,Entry,0.0,2580,No,3,3,23.7,2,3,No,0,Needs Improvement
+EMP00324,38,Operations,Senior,6.7,7115,Yes,4,2,32.1,3,5,No,0,Needs Improvement
+EMP00325,24,Finance,Mid,4.2,4638,No,3,5,17.8,4,7,Yes,0,High
+EMP00326,51,Operations,Senior,13.0,8859,Yes,3,4,27.7,6,11,Yes,0,High
+EMP00327,38,Finance,Mid,7.1,4239,No,3,3,19.3,4,4,Yes,0,Needs Improvement
+EMP00328,46,Operations,Mid,3.8,5462,Yes,2,4,14.8,3,6,No,1,Needs Improvement
+EMP00329,36,Operations,Entry,5.1,3157,No,4,2,15.8,3,6,Yes,0,Needs Improvement
+EMP00330,37,Sales,Entry,0.0,2495,No,2,3,12.5,4,10,No,0,Needs Improvement
+EMP00331,45,Finance,Senior,11.1,8745,No,4,3,25.8,12,6,No,0,High
+EMP00332,43,Engineering,Mid,1.8,4436,Yes,3,4,31.3,5,8,Yes,0,Needs Improvement
+EMP00333,54,Operations,Mid,7.9,5276,Yes,4,3,28.2,8,4,No,0,High
+EMP00334,53,Finance,Lead,11.0,9670,No,2,3,52.7,7,6,Yes,0,High
+EMP00335,35,Engineering,Lead,9.4,9726,Yes,3,3,10.9,7,10,Yes,0,Needs Improvement
+EMP00336,45,Operations,Senior,8.1,7273,No,4,3,34.7,7,7,No,0,High
+EMP00337,42,Engineering,Entry,2.5,2251,No,4,3,24.1,3,4,No,0,High
+EMP00338,46,Finance,Mid,4.0,4657,Yes,5,3,35.2,3,5,No,0,Needs Improvement
+EMP00339,39,Engineering,Senior,10.0,8391,No,3,3,37.2,5,7,No,0,High
+EMP00340,46,Human Resources,Mid,3.7,5087,No,5,4,25.4,2,3,Yes,0,High
+EMP00341,40,Engineering,Entry,3.4,3385,Yes,3,3,25.7,3,7,No,0,Needs Improvement
+EMP00342,60,Human Resources,Senior,9.7,7579,No,4,2,22.6,3,3,Yes,0,Needs Improvement
+EMP00343,33,Finance,Mid,5.0,4895,Yes,2,2,33.1,3,7,No,0,Needs Improvement
+EMP00344,34,Operations,Mid,4.1,5942,No,4,4,8.2,4,7,No,0,High
+EMP00345,44,Finance,Lead,12.4,9830,No,1,4,40.8,6,10,Yes,1,High
+EMP00346,35,Finance,Mid,6.6,5219,No,2,3,26.8,2,6,No,0,Needs Improvement
+EMP00347,32,Human Resources,Mid,10.4,6502,No,4,3,22.1,6,6,No,0,High
+EMP00348,21,Engineering,Mid,7.5,5201,Yes,2,3,24.7,3,5,No,0,Needs Improvement
+EMP00349,35,Operations,Mid,7.6,5279,No,4,2,25.4,6,5,Yes,0,High
+EMP00350,37,Engineering,Entry,9.5,3988,No,4,4,37.0,0,5,Yes,0,High
+EMP00351,39,Operations,Senior,9.9,7737,No,3,3,62.3,6,6,Yes,0,High
+EMP00352,56,Engineering,Senior,9.8,7853,No,2,3,42.2,6,6,No,0,Needs Improvement
+EMP00353,34,Operations,Entry,3.6,4232,No,3,3,18.3,2,9,No,0,Needs Improvement
+EMP00354,47,Operations,Mid,2.7,5083,No,2,3,33.3,3,3,Yes,0,High
+EMP00355,44,Sales,Senior,7.5,6223,No,3,4,36.7,6,6,No,1,High
+EMP00356,40,Operations,Entry,0.5,2931,No,3,3,14.7,3,7,No,0,High
+EMP00357,40,Finance,Mid,6.8,5487,No,3,3,14.4,4,6,Yes,0,High
+EMP00358,48,Finance,Mid,4.8,5220,No,5,4,26.4,5,6,No,0,High
+EMP00359,42,Sales,Senior,8.9,7724,No,3,3,38.1,4,10,No,0,High
+EMP00360,37,Operations,Entry,4.5,3293,Yes,5,3,7.9,1,9,No,0,High
+EMP00361,41,Human Resources,Mid,7.4,5523,No,2,3,19.8,5,6,No,0,High
+EMP00362,36,Engineering,Mid,4.8,5505,Yes,3,2,32.7,7,6,Yes,0,High
+EMP00363,41,Engineering,Mid,3.5,4751,No,4,3,27.4,3,3,No,0,High
+EMP00364,50,Engineering,Entry,4.6,2847,Yes,4,3,38.2,3,9,No,0,Needs Improvement
+EMP00365,36,Operations,Mid,7.1,7020,Yes,3,3,12.9,4,8,No,0,High
+EMP00366,41,Sales,Mid,1.2,4354,No,4,3,50.5,6,9,No,0,High
+EMP00367,43,Finance,Entry,1.0,2885,No,4,3,8.6,1,11,No,0,Needs Improvement
+EMP00368,42,Operations,Entry,2.2,2249,No,3,4,3.7,3,4,No,0,Needs Improvement
+EMP00369,34,Sales,Entry,3.7,3258,No,4,2,23.4,4,3,Yes,0,High
+EMP00370,21,Human Resources,Mid,7.5,5096,Yes,5,3,15.7,7,5,Yes,0,High
+EMP00371,38,Finance,Entry,2.5,2816,No,4,4,23.6,3,7,No,0,Needs Improvement
+EMP00372,30,Engineering,Lead,13.5,10595,No,4,4,32.3,9,5,No,0,High
+EMP00373,48,Sales,Mid,5.4,5515,No,4,4,25.0,4,4,No,1,Needs Improvement
+EMP00374,43,Sales,Senior,6.9,7616,No,2,5,21.6,4,11,No,0,Needs Improvement
+EMP00375,53,Engineering,Lead,11.3,8890,Yes,4,4,37.3,7,6,Yes,0,High
+EMP00376,28,Engineering,Entry,1.8,3861,No,2,4,20.8,1,2,Yes,0,High
+EMP00377,27,Human Resources,Mid,5.1,4643,No,3,3,38.0,3,7,No,0,Needs Improvement
+EMP00378,44,Sales,Senior,3.9,7691,Yes,5,2,28.2,5,5,Yes,0,High
+EMP00379,38,Sales,Mid,4.2,5628,No,3,3,17.4,7,4,No,0,High
+EMP00380,35,Finance,Mid,5.3,5554,No,3,4,10.1,6,2,No,0,High
+EMP00381,39,Operations,Mid,4.5,4730,Yes,4,4,25.3,0,5,No,0,High
+EMP00382,53,Human Resources,Entry,1.2,2938,No,2,4,11.3,1,7,No,0,Needs Improvement
+EMP00383,44,Finance,Mid,6.4,5179,Yes,3,3,13.5,2,9,No,0,Needs Improvement
+EMP00384,53,Sales,Lead,9.3,9520,Yes,4,3,38.3,3,11,No,0,High
+EMP00385,52,Sales,Lead,7.9,9192,No,3,3,15.2,9,5,Yes,0,High
+EMP00386,44,Human Resources,Entry,0.9,2200,Yes,2,4,38.1,3,7,No,0,Needs Improvement
+EMP00387,41,Operations,Senior,10.5,8378,Yes,4,4,31.6,5,5,No,0,High
+EMP00388,24,Human Resources,Mid,9.4,5778,No,3,2,26.6,8,7,Yes,0,Needs Improvement
+EMP00389,41,Engineering,Senior,10.6,7589,Yes,5,4,19.7,1,6,No,0,High
+EMP00390,40,Finance,Entry,0.0,2420,No,3,3,31.6,5,5,No,0,High
+EMP00391,39,Operations,Lead,11.4,9968,No,4,4,33.0,8,3,Yes,1,Needs Improvement
+EMP00392,41,Engineering,Senior,9.2,7195,Yes,5,3,23.1,8,5,No,0,High
+EMP00393,29,Operations,Entry,2.2,2200,No,2,5,26.0,2,6,No,1,High
+EMP00394,45,Operations,Entry,3.1,3322,Yes,3,3,7.2,3,9,No,0,High
+EMP00395,47,Engineering,Senior,6.3,7510,No,4,3,13.6,5,11,No,0,High
+EMP00396,39,Sales,Entry,2.0,2870,Yes,2,4,12.8,3,7,No,0,High
+EMP00397,42,Finance,Mid,6.3,4827,No,4,2,30.5,1,4,No,0,High
+EMP00398,42,Sales,Senior,10.7,7889,Yes,3,3,30.0,3,9,No,0,High
+EMP00399,39,Sales,Mid,3.2,4250,No,3,3,37.5,6,6,Yes,0,High
+EMP00400,30,Sales,Mid,4.3,4617,Yes,3,3,17.8,6,4,Yes,0,High
+EMP00401,23,Sales,Mid,0.0,4175,Yes,3,3,32.7,7,5,No,0,Needs Improvement
+EMP00402,35,Human Resources,Entry,0.2,3149,No,3,4,22.9,2,2,No,1,Needs Improvement
+EMP00403,48,Finance,Lead,10.7,9513,No,3,3,23.6,5,4,Yes,0,Needs Improvement
+EMP00404,46,Engineering,Mid,2.7,4691,No,3,4,30.9,6,6,Yes,0,Needs Improvement
+EMP00405,45,Human Resources,Entry,2.2,3974,Yes,3,3,23.3,3,6,No,0,Needs Improvement
+EMP00406,45,Finance,Entry,1.7,3106,Yes,3,2,17.7,6,6,No,0,High
+EMP00407,39,Sales,Lead,6.4,9283,No,3,4,33.4,4,7,No,0,High
+EMP00408,32,Finance,Entry,2.3,2826,No,4,2,22.7,3,3,No,0,High
+EMP00409,45,Engineering,Senior,6.3,6952,No,2,4,28.5,4,3,No,0,High
+EMP00410,60,Human Resources,Senior,9.8,6630,No,3,3,25.9,8,6,No,0,High
+EMP00411,52,Operations,Senior,5.4,7613,No,3,3,17.0,3,6,Yes,1,High
+EMP00412,54,Operations,Lead,12.1,10108,Yes,2,2,33.7,7,10,No,0,Needs Improvement
+EMP00413,39,Engineering,Senior,7.9,7377,No,5,3,22.0,4,4,Yes,1,Needs Improvement
+EMP00414,40,Human Resources,Lead,12.8,9909,No,3,4,22.8,8,4,No,0,High
+EMP00415,40,Engineering,Entry,2.1,3352,No,3,3,21.6,1,4,Yes,0,Needs Improvement
+EMP00416,34,Engineering,Senior,8.0,6703,No,3,3,37.3,2,4,No,1,Needs Improvement
+EMP00417,36,Engineering,Mid,1.4,4444,Yes,3,4,28.9,7,9,No,0,High
+EMP00418,37,Finance,Mid,1.5,4184,No,2,4,21.7,5,4,Yes,0,High
+EMP00419,53,Engineering,Senior,7.1,8244,No,3,1,24.3,3,7,No,0,High
+EMP00420,44,Human Resources,Lead,12.0,10308,Yes,2,5,39.4,4,4,Yes,1,High
+EMP00421,25,Operations,Senior,7.1,6257,No,3,4,6.0,9,4,No,0,High
+EMP00422,42,Engineering,Mid,6.8,4711,No,1,4,35.0,7,8,No,0,High
+EMP00423,33,Engineering,Mid,4.5,5091,Yes,2,3,8.3,3,6,Yes,0,High
+EMP00424,38,Engineering,Mid,2.8,4692,Yes,5,2,12.8,1,8,No,0,High
+EMP00425,37,Operations,Mid,4.5,4495,Yes,4,4,21.9,1,7,No,0,Needs Improvement
+EMP00426,36,Finance,Mid,5.8,6305,No,5,3,48.7,6,5,Yes,0,High
+EMP00427,40,Engineering,Entry,2.6,3207,Yes,5,4,40.8,4,3,No,0,High
+EMP00428,23,Finance,Entry,6.5,3815,No,4,3,31.1,5,3,No,0,High
+EMP00429,38,Engineering,Senior,6.9,6985,No,3,3,33.6,6,5,No,0,High
+EMP00430,43,Finance,Mid,5.0,5586,No,2,3,8.4,8,5,Yes,0,Needs Improvement
+EMP00431,42,Human Resources,Lead,13.1,9828,Yes,4,4,34.6,4,7,No,1,High
+EMP00432,27,Finance,Mid,5.1,5097,No,3,2,21.5,3,8,Yes,0,High
+EMP00433,39,Operations,Entry,0.5,3073,No,5,5,15.8,3,6,No,0,Needs Improvement
+EMP00434,42,Finance,Entry,0.0,2200,No,3,5,25.5,1,5,No,0,High
+EMP00435,34,Engineering,Entry,0.5,3566,Yes,5,5,19.3,7,5,No,0,High
+EMP00436,32,Engineering,Lead,9.3,9597,No,3,4,41.7,7,5,Yes,0,High
+EMP00437,39,Engineering,Entry,0.0,3340,No,5,3,4.6,5,6,Yes,0,High
+EMP00438,26,Operations,Mid,3.2,4444,No,5,4,27.8,4,7,No,0,High
+EMP00439,48,Finance,Lead,9.4,9057,Yes,2,3,24.2,5,9,Yes,0,High
+EMP00440,40,Operations,Lead,13.5,9492,No,3,2,28.9,2,3,No,0,High
+EMP00441,26,Finance,Entry,3.3,3271,Yes,2,4,27.0,3,5,No,1,High
+EMP00442,31,Engineering,Entry,0.0,2733,Yes,2,4,12.8,3,10,No,0,Needs Improvement
+EMP00443,33,Finance,Entry,1.1,2616,Yes,4,3,25.6,4,8,Yes,0,High
+EMP00444,29,Engineering,Entry,0.0,2200,No,3,2,21.9,3,4,Yes,0,High
+EMP00445,38,Engineering,Entry,0.6,2200,No,3,3,17.4,2,8,No,0,High
+EMP00446,35,Operations,Mid,6.2,5363,Yes,4,2,22.3,5,8,No,0,High
+EMP00447,49,Human Resources,Senior,10.7,7612,No,2,4,28.5,5,4,Yes,1,High
+EMP00448,40,Operations,Mid,3.4,4666,No,5,2,19.3,5,7,Yes,0,High
+EMP00449,33,Engineering,Mid,7.8,6377,No,3,3,27.1,6,7,Yes,0,Needs Improvement
+EMP00450,28,Operations,Entry,0.0,2659,No,4,2,21.2,1,10,No,0,Needs Improvement
+EMP00451,30,Engineering,Senior,5.5,7778,No,4,2,23.9,6,4,Yes,0,High
+EMP00452,40,Human Resources,Mid,7.0,5228,Yes,5,3,42.9,4,5,Yes,0,Needs Improvement
+EMP00453,40,Operations,Senior,12.8,8250,No,3,3,34.2,8,5,No,0,High
+EMP00454,29,Engineering,Lead,13.2,10004,No,1,4,29.2,6,10,Yes,0,High
+EMP00455,34,Engineering,Mid,5.1,4390,No,3,2,28.5,3,7,Yes,0,High
+EMP00456,28,Engineering,Entry,0.0,3414,No,3,3,13.7,8,7,No,0,High
+EMP00457,45,Human Resources,Entry,0.0,2632,No,2,1,19.6,5,1,No,0,Needs Improvement
+EMP00458,26,Sales,Mid,5.5,5666,No,3,1,23.8,7,9,Yes,0,High
+EMP00459,36,Finance,Lead,11.1,9372,No,3,5,20.5,10,5,No,0,High
+EMP00460,46,Operations,Mid,2.4,4792,No,2,5,30.9,6,5,Yes,0,Needs Improvement
+EMP00461,51,Operations,Senior,8.8,7155,No,4,3,24.9,5,1,Yes,0,High
+EMP00462,33,Engineering,Mid,5.5,5910,No,3,2,23.4,6,1,No,0,High
+EMP00463,30,Human Resources,Entry,4.2,3423,No,3,3,18.3,3,3,No,0,High
+EMP00464,42,Sales,Mid,5.5,5476,Yes,3,4,56.6,2,4,No,0,Needs Improvement
+EMP00465,22,Operations,Mid,8.3,6350,No,4,3,20.4,4,6,No,0,High
+EMP00466,25,Operations,Mid,5.2,5830,No,3,3,6.3,5,10,Yes,0,High
+EMP00467,36,Operations,Mid,4.9,5594,No,3,3,11.0,4,5,No,0,High
+EMP00468,45,Human Resources,Entry,4.5,2597,No,3,3,31.6,5,5,No,0,Needs Improvement
+EMP00469,39,Engineering,Senior,6.2,6889,No,4,3,43.4,3,4,Yes,0,Needs Improvement
+EMP00470,35,Operations,Entry,8.8,3386,No,5,3,17.2,4,7,No,0,Needs Improvement
+EMP00471,54,Sales,Lead,12.9,10355,No,4,2,45.8,2,6,Yes,0,High
+EMP00472,49,Sales,Entry,2.8,3163,No,4,4,31.4,3,8,No,0,High
+EMP00473,30,Engineering,Entry,3.1,2423,No,4,3,22.1,5,5,No,0,High
+EMP00474,38,Engineering,Mid,9.9,5792,No,2,3,24.4,9,8,Yes,0,Needs Improvement
+EMP00475,51,Engineering,Mid,7.2,4775,No,2,4,28.8,3,4,No,0,Needs Improvement
+EMP00476,27,Sales,Mid,1.2,4685,Yes,3,3,35.8,4,6,Yes,0,Needs Improvement
+EMP00477,45,Sales,Mid,8.7,4897,No,3,4,31.0,4,5,No,1,High
+EMP00478,39,Operations,Lead,11.1,10013,Yes,2,2,26.2,3,7,Yes,0,High
+EMP00479,39,Operations,Mid,5.5,5481,No,2,3,25.3,2,7,Yes,1,High
+EMP00480,36,Sales,Mid,2.0,5774,No,2,3,46.8,6,7,No,0,High
+EMP00481,31,Sales,Mid,6.5,5851,No,3,5,29.5,8,5,No,0,High
+EMP00482,27,Engineering,Entry,0.2,2516,No,3,2,32.7,3,7,Yes,0,High
+EMP00483,40,Operations,Mid,5.5,5702,No,3,3,32.4,5,8,No,0,High
+EMP00484,41,Sales,Entry,1.1,2200,Yes,3,4,26.7,4,4,Yes,0,High
+EMP00485,37,Engineering,Mid,10.0,5419,No,3,3,28.1,5,4,No,0,High
+EMP00486,34,Sales,Entry,6.8,3785,No,4,3,33.0,3,5,Yes,0,High
+EMP00487,50,Sales,Lead,12.1,8804,Yes,3,3,40.2,5,4,Yes,0,High
+EMP00488,31,Engineering,Mid,5.4,5260,Yes,4,3,29.6,1,6,No,0,High
+EMP00489,47,Operations,Senior,7.7,6929,No,3,5,23.1,2,2,No,0,High
+EMP00490,44,Operations,Mid,8.0,5681,Yes,2,4,30.9,5,9,No,0,Needs Improvement
+EMP00491,52,Operations,Entry,1.0,2296,No,3,4,23.3,5,5,No,0,Needs Improvement
+EMP00492,39,Operations,Senior,7.5,7625,Yes,2,3,26.9,3,5,No,0,Needs Improvement
+EMP00493,35,Operations,Mid,7.6,5586,Yes,3,3,53.8,3,4,No,0,High
+EMP00494,47,Sales,Senior,7.3,8086,No,3,3,14.6,5,10,No,0,High
+EMP00495,44,Finance,Mid,5.1,5242,Yes,4,2,36.6,8,4,No,0,High
+EMP00496,34,Operations,Mid,1.2,4328,Yes,2,4,18.4,5,5,No,0,Needs Improvement
+EMP00497,39,Sales,Senior,10.4,7681,No,3,3,31.3,3,9,No,0,High
+EMP00498,42,Operations,Mid,10.1,5241,No,4,3,52.7,6,7,No,0,Needs Improvement
+EMP00499,32,Sales,Mid,7.0,5698,No,4,4,17.4,2,8,No,0,High
+EMP00500,35,Operations,Mid,8.9,6046,Yes,3,2,19.8,2,4,No,0,Needs Improvement
+EMP00501,39,Finance,Mid,3.1,6203,No,3,4,26.8,7,5,No,0,High
+EMP00502,53,Human Resources,Lead,12.6,9640,No,3,3,24.5,4,7,No,0,Needs Improvement
+EMP00503,34,Human Resources,Mid,2.8,4794,No,5,4,35.8,6,8,No,0,High
+EMP00504,25,Operations,Mid,4.6,4883,No,2,3,21.7,1,6,No,0,Needs Improvement
+EMP00505,29,Operations,Senior,10.5,7924,No,2,4,36.5,6,2,No,0,High
+EMP00506,29,Finance,Mid,5.5,5483,No,5,3,13.7,4,4,No,0,High
+EMP00507,33,Sales,Senior,5.1,7062,No,3,4,11.9,2,4,No,0,Needs Improvement
+EMP00508,37,Finance,Mid,1.9,5350,No,2,3,24.7,5,6,Yes,0,Needs Improvement
+EMP00509,26,Sales,Entry,0.0,2392,No,3,2,8.3,2,4,No,0,Needs Improvement
+EMP00510,37,Engineering,Senior,9.8,8216,No,1,4,45.2,8,10,Yes,0,High
+EMP00511,29,Engineering,Entry,7.0,3914,No,4,3,8.7,2,3,Yes,0,High
+EMP00512,31,Finance,Entry,5.2,3396,No,4,4,13.6,5,6,No,0,High
+EMP00513,47,Engineering,Mid,0.5,4460,No,2,4,31.1,6,3,No,0,High
+EMP00514,47,Sales,Senior,12.2,9260,No,3,3,24.1,2,4,No,0,High
+EMP00515,42,Sales,Senior,10.9,7463,No,4,2,14.8,4,10,Yes,0,Needs Improvement
+EMP00516,31,Engineering,Entry,0.0,2849,No,2,4,44.4,7,5,No,0,Needs Improvement
+EMP00517,31,Sales,Entry,1.0,2460,No,2,3,14.0,2,7,No,0,High
+EMP00518,48,Finance,Lead,14.7,11127,Yes,3,4,31.0,3,7,No,0,High
+EMP00519,38,Engineering,Entry,3.2,3575,No,3,3,21.9,6,2,No,0,High
+EMP00520,28,Finance,Entry,0.0,2361,No,3,4,31.1,4,3,Yes,0,High
+EMP00521,34,Finance,Entry,3.3,3402,No,2,4,28.6,5,7,Yes,1,High
+EMP00522,24,Sales,Mid,0.0,4679,No,4,3,18.7,3,3,Yes,0,High
+EMP00523,43,Engineering,Senior,8.0,7222,No,3,3,26.7,5,5,Yes,0,Needs Improvement
+EMP00524,47,Operations,Senior,11.4,8318,No,4,3,27.7,9,1,No,0,High
+EMP00525,40,Engineering,Senior,8.6,7756,No,3,4,37.5,2,5,Yes,0,High
+EMP00526,47,Sales,Entry,0.6,2889,Yes,3,3,12.3,3,11,Yes,0,Needs Improvement
+EMP00527,32,Human Resources,Mid,7.4,5528,No,2,4,47.2,3,7,Yes,0,High
+EMP00528,40,Human Resources,Mid,7.6,5792,No,4,3,19.4,3,5,Yes,0,High
+EMP00529,34,Finance,Entry,5.1,3503,No,3,3,23.9,4,4,No,0,Needs Improvement
+EMP00530,33,Sales,Entry,4.0,3270,No,3,5,12.4,3,7,Yes,0,Needs Improvement
+EMP00531,37,Operations,Mid,7.9,5296,Yes,4,4,14.0,5,5,No,0,High
+EMP00532,35,Operations,Entry,3.6,4033,No,3,3,15.3,6,7,Yes,0,Needs Improvement
+EMP00533,44,Sales,Mid,5.9,4821,No,5,3,17.3,6,6,Yes,1,High
+EMP00534,52,Operations,Senior,8.8,7802,No,5,3,25.9,5,6,Yes,0,High
+EMP00535,34,Engineering,Entry,1.2,2702,Yes,4,3,14.2,4,7,No,0,Needs Improvement
+EMP00536,44,Engineering,Mid,2.2,5727,No,2,3,34.0,1,12,Yes,0,Needs Improvement
+EMP00537,37,Operations,Senior,6.2,6785,No,1,4,22.2,3,0,No,0,High
+EMP00538,47,Engineering,Senior,7.9,7099,No,4,4,21.1,1,5,Yes,0,High
+EMP00539,37,Engineering,Senior,9.2,7157,No,3,2,26.1,2,7,No,1,Needs Improvement
+EMP00540,46,Finance,Mid,8.8,5900,Yes,3,4,36.9,0,5,Yes,0,High
+EMP00541,57,Human Resources,Senior,8.5,6861,No,4,3,32.1,7,3,No,0,High
+EMP00542,33,Operations,Entry,4.3,3041,No,2,2,23.0,6,3,No,0,High
+EMP00543,23,Finance,Mid,7.9,4540,No,3,4,12.7,3,3,Yes,0,High
+EMP00544,30,Human Resources,Entry,1.2,2982,Yes,4,4,12.6,2,5,Yes,0,High
+EMP00545,47,Engineering,Mid,6.7,5204,No,2,3,14.2,7,3,No,1,High
+EMP00546,42,Sales,Mid,4.6,4427,No,3,4,40.1,0,5,Yes,0,Needs Improvement
+EMP00547,36,Sales,Entry,5.1,3931,No,4,4,29.3,3,2,Yes,0,High
+EMP00548,49,Engineering,Senior,10.2,7123,No,4,4,21.4,4,5,No,0,High
+EMP00549,41,Finance,Mid,2.2,5245,Yes,4,4,21.4,7,8,Yes,0,High
+EMP00550,43,Sales,Entry,2.2,2646,No,4,2,15.7,4,10,No,0,Needs Improvement
+EMP00551,40,Sales,Entry,5.9,4297,No,3,5,15.1,6,8,No,0,High
+EMP00552,49,Engineering,Mid,4.7,5559,No,1,4,31.6,2,6,No,0,Needs Improvement
+EMP00553,41,Engineering,Mid,6.3,4896,Yes,2,3,24.1,2,10,Yes,0,Needs Improvement
+EMP00554,44,Human Resources,Mid,6.6,4982,No,4,2,47.8,4,6,No,0,High
+EMP00555,32,Engineering,Entry,0.0,3003,No,2,4,36.5,3,13,No,0,Needs Improvement
+EMP00556,38,Engineering,Senior,9.9,7605,Yes,3,3,43.1,2,9,Yes,0,High
+EMP00557,58,Sales,Lead,8.5,9313,No,4,3,39.7,5,0,No,0,High
+EMP00558,40,Sales,Mid,3.6,5672,Yes,5,4,22.8,6,13,No,1,High
+EMP00559,44,Operations,Mid,7.9,5242,Yes,3,3,33.0,6,3,No,0,High
+EMP00560,43,Sales,Senior,9.5,7728,No,3,2,26.5,4,4,Yes,0,High
+EMP00561,42,Engineering,Lead,11.2,10239,Yes,3,4,49.3,3,8,Yes,1,Needs Improvement
+EMP00562,38,Engineering,Mid,6.3,5805,No,4,3,31.0,3,9,No,0,Needs Improvement
+EMP00563,52,Finance,Senior,8.4,7454,Yes,3,3,32.6,6,4,No,0,High
+EMP00564,46,Operations,Senior,8.6,7417,No,4,2,31.3,6,5,No,0,High
+EMP00565,30,Operations,Senior,10.2,6908,No,3,3,47.4,1,7,Yes,1,High
+EMP00566,36,Operations,Mid,3.4,4481,No,3,4,12.7,4,5,No,0,High
+EMP00567,46,Finance,Entry,1.9,3116,No,4,4,42.4,4,1,Yes,0,High
+EMP00568,33,Engineering,Entry,1.0,2766,No,3,3,22.1,3,3,Yes,1,High
+EMP00569,25,Sales,Mid,1.2,4749,No,4,2,12.9,6,3,No,0,High
+EMP00570,51,Operations,Mid,2.9,5461,Yes,3,3,19.5,3,8,Yes,0,High
+EMP00571,43,Sales,Mid,9.1,5185,No,4,4,10.5,1,2,Yes,0,High
+EMP00572,38,Finance,Mid,6.2,5269,Yes,3,4,33.5,4,4,Yes,0,High
+EMP00573,35,Sales,Mid,1.9,4901,No,4,3,16.6,4,10,No,0,High
+EMP00574,50,Finance,Senior,4.7,6682,Yes,3,3,31.7,2,5,Yes,0,High
+EMP00575,30,Finance,Entry,1.5,3618,No,3,4,35.3,3,6,No,0,Needs Improvement
+EMP00576,42,Operations,Entry,5.7,3924,No,4,3,17.3,6,7,No,1,High
+EMP00577,46,Human Resources,Senior,8.1,7639,No,4,2,27.3,7,1,No,0,High
+EMP00578,44,Operations,Senior,11.9,8904,No,2,3,17.0,7,7,No,1,Needs Improvement
+EMP00579,47,Finance,Lead,12.9,9242,No,3,5,29.1,7,11,No,0,High
+EMP00580,41,Sales,Senior,9.8,7719,Yes,1,2,55.7,3,5,Yes,0,Needs Improvement
+EMP00581,49,Sales,Senior,5.3,7299,No,3,3,37.8,6,2,No,0,High
+EMP00582,32,Operations,Mid,7.5,5105,No,4,3,24.4,3,4,No,0,Needs Improvement
+EMP00583,27,Engineering,Mid,4.4,5294,Yes,3,3,20.9,3,6,No,0,High
+EMP00584,38,Sales,Entry,4.0,2687,No,3,3,23.6,2,13,No,0,High
+EMP00585,42,Human Resources,Mid,3.2,5327,No,1,4,28.3,3,6,Yes,0,High
+EMP00586,49,Operations,Lead,12.4,10453,Yes,3,3,28.8,7,4,No,0,Needs Improvement
+EMP00587,41,Engineering,Mid,6.1,5510,No,4,4,32.3,7,5,Yes,0,High
+EMP00588,36,Sales,Mid,4.8,4272,Yes,4,3,17.5,2,11,No,0,High
+EMP00589,40,Engineering,Entry,2.8,2595,Yes,4,3,14.4,10,7,Yes,0,Needs Improvement
+EMP00590,34,Engineering,Entry,1.1,3131,No,3,3,27.7,1,9,No,0,High
+EMP00591,31,Human Resources,Entry,0.2,2738,Yes,3,2,12.3,2,8,No,0,High
+EMP00592,32,Sales,Entry,5.8,2200,No,2,3,31.3,7,6,No,0,High
+EMP00593,60,Sales,Lead,14.6,10842,No,3,5,32.9,6,3,Yes,0,High
+EMP00594,26,Operations,Mid,3.3,5064,No,2,4,8.7,3,6,No,0,High
+EMP00595,45,Engineering,Senior,10.0,7340,No,2,4,31.1,3,8,Yes,1,High
+EMP00596,30,Engineering,Senior,6.7,7802,No,2,3,13.1,5,3,Yes,1,Needs Improvement
+EMP00597,33,Operations,Entry,0.0,2361,No,5,3,30.9,1,8,No,0,High
+EMP00598,31,Operations,Entry,4.4,2950,No,3,4,21.5,3,7,No,0,High
+EMP00599,27,Human Resources,Senior,4.3,7160,No,4,5,48.5,4,10,No,0,High
+EMP00600,37,Operations,Entry,4.1,4144,No,3,4,34.7,1,5,Yes,0,High
+EMP00601,39,Sales,Senior,8.0,8292,Yes,2,4,19.4,2,10,No,1,Needs Improvement
+EMP00602,21,Finance,Entry,1.3,3055,No,4,3,3.8,1,6,No,0,High
+EMP00603,44,Human Resources,Mid,6.2,5618,No,1,3,19.4,11,1,Yes,0,High
+EMP00604,52,Finance,Senior,10.1,8159,No,3,3,17.8,2,4,No,0,Needs Improvement
+EMP00605,44,Human Resources,Entry,0.0,2200,No,3,2,42.3,1,8,No,0,High
+EMP00606,37,Finance,Entry,3.6,3508,No,4,2,23.9,3,6,No,0,High
+EMP00607,46,Finance,Lead,12.3,9543,Yes,3,3,42.3,4,6,No,0,High
+EMP00608,43,Engineering,Entry,0.0,2859,No,2,3,21.1,1,6,No,0,Needs Improvement
+EMP00609,50,Finance,Mid,4.8,5084,No,3,2,25.2,8,4,Yes,0,Needs Improvement
+EMP00610,46,Sales,Mid,8.7,5975,Yes,3,3,26.7,1,4,Yes,0,High
+EMP00611,27,Operations,Entry,6.0,3569,Yes,3,3,35.1,4,3,No,0,Needs Improvement
+EMP00612,43,Operations,Senior,10.4,6267,Yes,4,2,33.1,5,10,No,0,Needs Improvement
+EMP00613,45,Human Resources,Senior,5.6,7245,No,2,3,19.4,5,4,No,0,Needs Improvement
+EMP00614,25,Human Resources,Mid,6.4,5735,No,4,3,43.2,3,4,No,0,High
+EMP00615,45,Sales,Senior,10.7,8067,No,3,3,27.1,3,4,No,0,High
+EMP00616,50,Finance,Entry,3.6,3135,Yes,4,4,19.4,3,5,Yes,1,High
+EMP00617,38,Finance,Entry,3.8,4034,No,3,2,2.0,2,9,No,0,Needs Improvement
+EMP00618,48,Sales,Mid,6.1,5529,No,4,2,33.3,7,5,No,0,High
+EMP00619,47,Engineering,Lead,11.8,10062,No,3,3,34.0,8,5,No,0,High
+EMP00620,33,Engineering,Entry,0.3,3263,No,4,3,25.0,4,7,Yes,0,High
+EMP00621,37,Finance,Entry,0.0,2881,Yes,2,4,20.0,2,1,Yes,0,Needs Improvement
+EMP00622,32,Sales,Mid,6.0,4911,No,1,3,21.2,4,7,Yes,0,High
+EMP00623,35,Human Resources,Senior,9.1,6409,No,4,2,26.3,4,8,No,0,High
+EMP00624,43,Sales,Entry,3.2,2893,Yes,4,3,28.6,3,3,No,0,Needs Improvement
+EMP00625,48,Human Resources,Mid,1.9,5187,No,4,3,33.4,5,4,Yes,1,High
+EMP00626,35,Sales,Senior,10.2,7600,Yes,3,5,27.7,4,8,No,0,High
+EMP00627,45,Finance,Mid,10.3,6341,Yes,5,3,36.5,3,6,No,0,High
+EMP00628,33,Engineering,Entry,2.0,3044,No,3,3,23.2,2,5,Yes,0,High
+EMP00629,36,Operations,Entry,1.6,3560,No,4,5,19.0,3,5,No,0,Needs Improvement
+EMP00630,41,Finance,Mid,6.0,5212,No,4,3,29.0,5,7,No,1,High
+EMP00631,45,Human Resources,Mid,10.3,6174,No,5,4,13.4,4,4,Yes,0,Needs Improvement
+EMP00632,43,Finance,Senior,6.0,7463,No,3,4,32.3,8,8,No,0,High
+EMP00633,48,Engineering,Mid,5.7,6070,Yes,3,4,11.6,4,5,No,0,Needs Improvement
+EMP00634,44,Sales,Senior,6.6,6438,No,2,3,19.7,4,5,Yes,0,High
+EMP00635,50,Engineering,Lead,10.6,9452,No,5,3,12.8,7,2,Yes,0,High
+EMP00636,32,Engineering,Mid,5.1,5663,No,4,3,25.2,3,4,No,0,High
+EMP00637,53,Operations,Mid,8.6,6484,No,4,3,43.1,5,7,Yes,1,High
+EMP00638,49,Operations,Lead,16.5,10598,No,5,3,31.8,5,3,No,0,Needs Improvement
+EMP00639,39,Finance,Entry,2.9,2945,Yes,4,5,30.4,1,10,No,0,Needs Improvement
+EMP00640,31,Finance,Senior,7.7,7818,Yes,2,4,53.5,7,5,No,1,High
+EMP00641,36,Finance,Senior,14.8,8832,No,3,3,34.0,3,6,No,1,High
+EMP00642,43,Finance,Entry,0.7,2615,No,2,4,16.3,4,6,No,0,High
+EMP00643,40,Engineering,Mid,3.8,5228,Yes,3,2,20.7,2,10,No,0,Needs Improvement
+EMP00644,21,Engineering,Entry,0.0,3290,Yes,3,3,24.0,7,3,No,1,High
+EMP00645,41,Operations,Entry,5.3,4361,No,3,4,17.7,2,3,No,0,High
+EMP00646,34,Finance,Mid,7.6,5947,Yes,2,4,21.4,4,4,Yes,0,High
+EMP00647,44,Engineering,Entry,7.8,3775,Yes,5,3,33.9,2,6,No,0,High
+EMP00648,41,Operations,Senior,5.1,7061,No,4,3,40.3,9,6,Yes,1,High
+EMP00649,43,Operations,Senior,12.2,8326,No,3,5,13.5,8,5,No,0,High
+EMP00650,50,Engineering,Senior,8.8,7530,No,4,3,21.8,6,6,No,0,High
+EMP00651,28,Sales,Entry,3.8,3308,No,4,5,19.4,3,5,Yes,0,High
+EMP00652,27,Human Resources,Entry,0.0,2200,No,4,3,30.0,2,5,Yes,0,High
+EMP00653,33,Operations,Entry,5.5,4091,No,4,3,35.4,1,5,No,0,High
+EMP00654,40,Engineering,Entry,3.8,2643,No,3,3,51.0,6,9,No,0,High
+EMP00655,37,Finance,Lead,11.9,9640,Yes,4,4,28.3,4,8,No,0,High
+EMP00656,26,Sales,Mid,6.8,5517,No,4,4,22.8,5,13,No,0,Needs Improvement
+EMP00657,40,Finance,Entry,0.0,3695,No,3,2,29.9,5,5,No,1,High
+EMP00658,38,Sales,Senior,7.2,7161,No,3,3,23.2,5,10,No,0,High
+EMP00659,35,Operations,Mid,4.0,4757,Yes,5,4,25.6,3,7,Yes,0,High
+EMP00660,21,Sales,Entry,0.0,2425,No,3,3,19.8,3,3,No,0,High
+EMP00661,29,Engineering,Entry,4.0,4069,No,4,3,2.0,4,4,Yes,0,Needs Improvement
+EMP00662,38,Human Resources,Mid,8.2,4251,No,4,4,28.2,4,7,No,0,High
+EMP00663,49,Engineering,Senior,6.8,6817,No,3,4,28.2,5,4,No,0,High
+EMP00664,29,Engineering,Entry,2.7,4430,No,3,3,36.7,5,8,Yes,0,High
+EMP00665,54,Sales,Senior,7.9,7762,No,3,3,30.1,9,3,No,0,High
+EMP00666,37,Operations,Senior,9.4,7116,No,3,2,17.5,3,4,Yes,0,High
+EMP00667,37,Finance,Senior,7.0,7324,No,2,2,27.4,1,5,Yes,0,Needs Improvement
+EMP00668,45,Human Resources,Entry,0.0,2734,No,3,3,3.1,3,8,Yes,1,High
+EMP00669,35,Sales,Entry,4.4,3717,No,4,3,11.9,3,7,Yes,0,Needs Improvement
+EMP00670,38,Sales,Senior,8.4,8454,Yes,5,2,36.4,3,3,Yes,1,High
+EMP00671,37,Engineering,Mid,10.3,6135,Yes,4,3,24.5,3,7,No,0,High
+EMP00672,47,Operations,Mid,5.3,4996,No,1,2,36.2,3,6,No,0,Needs Improvement
+EMP00673,52,Human Resources,Senior,6.3,7644,No,4,4,10.3,3,8,No,0,Needs Improvement
+EMP00674,28,Operations,Entry,4.9,3012,No,3,2,21.6,3,8,No,0,Needs Improvement
+EMP00675,42,Operations,Senior,10.2,7260,Yes,4,2,25.2,6,7,Yes,1,Needs Improvement
+EMP00676,47,Sales,Lead,13.8,9233,No,3,2,42.6,8,7,Yes,0,High
+EMP00677,35,Human Resources,Senior,11.6,7183,No,3,4,36.7,4,7,No,0,High
+EMP00678,38,Sales,Mid,3.6,4588,No,3,2,33.4,9,5,No,0,High
+EMP00679,42,Engineering,Senior,8.3,6932,Yes,3,3,45.4,8,7,No,0,High
+EMP00680,46,Sales,Mid,4.8,5355,No,5,5,23.3,3,2,Yes,0,High
+EMP00681,50,Engineering,Senior,5.4,6529,Yes,3,5,43.4,7,8,No,0,Needs Improvement
+EMP00682,40,Engineering,Senior,7.9,5895,No,4,2,19.6,6,5,No,1,High
+EMP00683,41,Engineering,Senior,11.9,7485,Yes,4,3,19.2,8,7,No,0,High
+EMP00684,39,Sales,Entry,2.4,2788,Yes,4,2,31.5,4,5,Yes,0,Needs Improvement
+EMP00685,30,Operations,Entry,0.0,2397,Yes,2,2,9.0,4,6,Yes,0,Needs Improvement
+EMP00686,38,Sales,Entry,0.0,3460,No,4,3,29.7,5,5,No,0,High
+EMP00687,37,Sales,Mid,9.4,5512,No,3,4,28.0,2,7,No,0,High
+EMP00688,31,Human Resources,Mid,5.0,5665,No,4,4,37.7,4,0,No,0,High
+EMP00689,31,Finance,Mid,3.6,5027,No,2,3,26.4,2,3,Yes,0,High
+EMP00690,48,Operations,Mid,4.5,5136,No,2,4,27.6,1,3,No,0,Needs Improvement
+EMP00691,41,Sales,Senior,4.9,6644,No,5,1,35.1,8,5,No,1,High
+EMP00692,53,Human Resources,Senior,12.2,8018,No,2,3,23.4,7,2,No,0,High
+EMP00693,30,Engineering,Entry,0.8,2425,No,4,2,16.9,4,8,No,0,Needs Improvement
+EMP00694,44,Sales,Senior,12.0,8105,No,3,3,34.7,2,4,No,1,High
+EMP00695,55,Human Resources,Mid,5.3,5147,No,3,3,26.7,7,3,Yes,1,High
+EMP00696,31,Operations,Mid,8.8,5266,No,3,3,22.9,6,2,No,0,High
+EMP00697,21,Finance,Entry,2.4,3520,Yes,2,3,23.2,4,9,No,0,Needs Improvement
+EMP00698,51,Operations,Senior,10.7,8058,No,3,3,45.9,5,7,No,0,High
+EMP00699,40,Operations,Lead,13.8,9889,Yes,2,4,28.6,6,9,No,0,High
+EMP00700,42,Sales,Senior,10.2,7850,Yes,3,3,25.3,8,3,No,0,Needs Improvement
+EMP00701,38,Engineering,Senior,9.5,7641,No,4,3,12.9,4,6,No,0,Needs Improvement
+EMP00702,48,Sales,Lead,11.4,9355,No,4,4,32.6,9,4,No,0,Needs Improvement
+EMP00703,31,Engineering,Mid,10.0,5935,No,2,4,33.6,7,6,Yes,0,Needs Improvement
+EMP00704,37,Finance,Mid,2.9,4631,Yes,4,3,35.4,6,10,No,1,High
+EMP00705,41,Sales,Mid,5.2,4780,No,3,3,28.1,6,5,No,0,High
+EMP00706,39,Operations,Lead,12.0,9059,No,3,4,42.6,5,3,No,1,High
+EMP00707,29,Finance,Entry,2.8,2899,No,4,2,31.3,7,11,No,0,High
+EMP00708,36,Finance,Mid,4.1,5387,No,3,5,38.1,7,6,Yes,0,High
+EMP00709,32,Sales,Senior,9.4,7322,Yes,2,2,39.8,9,10,No,1,High
+EMP00710,31,Sales,Entry,1.4,4149,No,5,3,39.7,3,9,No,0,Needs Improvement
+EMP00711,43,Human Resources,Senior,4.6,7464,No,3,2,28.3,11,4,No,0,High
+EMP00712,35,Operations,Mid,5.2,5904,No,3,5,13.7,8,9,No,1,High
+EMP00713,44,Finance,Lead,9.2,9890,No,3,3,39.6,4,9,No,0,High
+EMP00714,42,Human Resources,Senior,4.3,7907,No,4,3,37.8,7,8,No,0,High
+EMP00715,33,Finance,Mid,5.5,4899,No,3,3,42.7,4,3,Yes,1,High
+EMP00716,47,Engineering,Senior,9.8,6443,No,2,3,42.8,4,3,Yes,0,Needs Improvement
+EMP00717,48,Operations,Mid,6.5,5204,Yes,3,3,46.5,4,5,No,0,High
+EMP00718,35,Engineering,Mid,6.6,5720,Yes,5,3,33.2,6,7,No,0,High
+EMP00719,41,Operations,Mid,0.4,4680,No,4,1,29.3,7,6,No,0,High
+EMP00720,40,Human Resources,Senior,5.2,7240,No,3,3,16.2,8,3,No,0,High
+EMP00721,37,Operations,Entry,6.7,4265,No,5,3,27.1,4,4,No,0,High
+EMP00722,45,Sales,Entry,0.0,2891,No,4,4,18.5,6,3,Yes,0,Needs Improvement
+EMP00723,46,Engineering,Senior,10.1,8163,No,3,4,32.1,9,7,No,0,High
+EMP00724,26,Human Resources,Mid,3.5,4553,No,3,3,27.5,6,4,Yes,0,Needs Improvement
+EMP00725,41,Engineering,Mid,5.4,4731,No,4,4,31.7,5,7,No,0,High
+EMP00726,43,Engineering,Entry,0.2,3534,No,3,2,23.0,2,6,No,0,Needs Improvement
+EMP00727,36,Engineering,Mid,6.6,5491,No,3,4,36.4,2,3,No,0,High
+EMP00728,49,Engineering,Senior,8.9,7290,No,4,3,2.8,11,7,Yes,0,High
+EMP00729,29,Sales,Entry,0.7,2484,No,2,2,25.9,3,8,No,0,Needs Improvement
+EMP00730,28,Operations,Mid,2.6,4576,No,3,3,39.0,3,3,No,0,High
+EMP00731,47,Sales,Lead,12.7,9610,No,3,4,51.7,4,4,No,0,High
+EMP00732,22,Engineering,Entry,0.0,2200,No,4,3,31.3,2,9,No,0,High
+EMP00733,40,Engineering,Senior,9.7,6959,Yes,2,4,46.8,4,5,No,0,High
+EMP00734,43,Sales,Entry,8.4,3736,No,3,3,25.7,5,4,No,0,High
+EMP00735,29,Engineering,Senior,12.0,7724,No,3,4,30.0,7,3,Yes,0,High
+EMP00736,33,Operations,Senior,10.4,8358,Yes,4,3,35.3,6,4,Yes,0,High
+EMP00737,35,Engineering,Senior,8.4,7681,No,3,3,30.0,3,5,Yes,1,High
+EMP00738,34,Sales,Entry,0.0,2833,No,5,3,16.2,3,8,Yes,0,High
+EMP00739,35,Sales,Mid,1.9,4435,No,4,4,21.8,9,6,No,0,High
+EMP00740,52,Sales,Senior,11.8,7932,No,3,3,18.9,7,6,Yes,0,High
+EMP00741,41,Engineering,Entry,0.0,2881,No,4,3,29.3,8,5,No,0,High
+EMP00742,37,Engineering,Entry,0.1,3072,Yes,3,4,24.1,2,8,Yes,0,High
+EMP00743,35,Finance,Entry,1.4,2842,No,4,5,20.4,9,7,Yes,0,High
+EMP00744,49,Engineering,Lead,9.3,10045,No,2,3,27.3,7,10,No,0,Needs Improvement
+EMP00745,36,Operations,Senior,5.5,7146,No,3,2,35.1,7,9,No,0,High
+EMP00746,44,Sales,Mid,5.1,5635,No,4,4,34.8,5,6,No,0,High
+EMP00747,34,Sales,Senior,6.4,7019,No,4,3,18.7,4,5,No,1,High
+EMP00748,44,Sales,Mid,3.3,4089,Yes,1,3,14.1,8,11,Yes,0,High
+EMP00749,46,Finance,Mid,3.2,5116,No,5,4,36.5,8,5,No,0,Needs Improvement
+EMP00750,39,Finance,Mid,6.5,5790,Yes,3,3,13.2,3,12,No,1,High
+EMP00751,37,Engineering,Mid,4.6,5459,No,2,3,32.5,5,6,Yes,0,High
+EMP00752,37,Sales,Entry,1.4,3100,Yes,1,3,40.2,0,8,No,0,Needs Improvement
+EMP00753,22,Engineering,Senior,10.1,7589,No,2,4,46.2,6,4,No,0,Needs Improvement
+EMP00754,44,Sales,Senior,8.2,7104,No,3,3,37.4,6,7,No,1,High
+EMP00755,37,Operations,Mid,4.5,5433,No,3,2,34.1,5,1,No,0,High
+EMP00756,38,Engineering,Mid,6.4,5627,No,4,2,49.5,1,8,No,0,Needs Improvement
+EMP00757,39,Sales,Entry,3.5,2892,No,3,3,2.0,4,6,Yes,0,Needs Improvement
+EMP00758,45,Human Resources,Lead,11.6,10371,No,2,2,28.4,1,6,No,0,Needs Improvement
+EMP00759,34,Engineering,Senior,8.8,7147,No,3,2,38.5,4,4,No,0,Needs Improvement
+EMP00760,45,Sales,Lead,10.0,9308,Yes,3,4,29.6,2,5,Yes,0,High
+EMP00761,38,Operations,Mid,3.0,5773,No,4,4,39.4,5,7,Yes,0,High
+EMP00762,35,Engineering,Entry,3.7,3634,No,3,3,23.6,3,3,No,0,High
+EMP00763,35,Engineering,Entry,2.9,2912,No,4,3,25.3,10,10,No,0,High
+EMP00764,41,Engineering,Entry,2.9,3235,Yes,3,3,21.3,3,7,No,0,High
+EMP00765,26,Human Resources,Entry,2.5,3115,No,2,4,18.8,4,3,No,0,High
+EMP00766,35,Engineering,Entry,1.9,2200,No,3,4,18.5,2,3,No,0,High
+EMP00767,55,Engineering,Lead,13.7,9646,Yes,4,1,35.7,8,4,No,0,Needs Improvement
+EMP00768,22,Engineering,Entry,4.1,3228,No,3,3,16.3,6,2,Yes,0,High
+EMP00769,35,Engineering,Entry,4.1,3075,No,3,4,33.5,4,9,No,0,High
+EMP00770,38,Operations,Senior,8.3,7644,No,4,3,36.5,4,2,Yes,0,High
+EMP00771,35,Engineering,Mid,8.7,6289,No,5,3,38.0,8,5,Yes,0,High
+EMP00772,36,Operations,Senior,9.2,7481,Yes,3,4,18.7,5,7,No,0,High
+EMP00773,37,Operations,Mid,6.8,4939,Yes,4,3,10.0,2,10,Yes,0,Needs Improvement
+EMP00774,55,Finance,Senior,9.3,7818,No,4,4,30.0,2,6,No,0,High
+EMP00775,29,Engineering,Mid,5.8,5170,No,3,4,56.0,5,4,No,0,High
+EMP00776,30,Finance,Mid,3.4,4931,No,3,3,39.7,3,7,Yes,0,High
+EMP00777,33,Operations,Senior,10.4,7658,Yes,2,3,24.5,3,5,No,0,Needs Improvement
+EMP00778,50,Engineering,Mid,12.3,7331,Yes,3,1,31.2,5,8,No,0,High
+EMP00779,35,Finance,Mid,4.3,4010,Yes,3,3,34.3,3,10,Yes,0,High
+EMP00780,38,Finance,Mid,5.4,5085,No,3,2,13.3,6,4,Yes,0,High
+EMP00781,31,Engineering,Entry,0.7,2793,No,3,3,37.7,5,10,Yes,0,High
+EMP00782,35,Human Resources,Senior,7.4,7008,No,3,3,28.3,5,7,Yes,0,Needs Improvement
+EMP00783,32,Sales,Entry,5.7,3919,No,4,4,23.1,3,13,Yes,0,Needs Improvement
+EMP00784,51,Operations,Entry,0.1,3120,Yes,3,4,24.2,2,9,Yes,0,Needs Improvement
+EMP00785,44,Human Resources,Entry,0.6,2757,No,2,3,35.4,2,3,Yes,0,High
+EMP00786,36,Sales,Senior,4.6,6886,Yes,3,5,22.4,7,4,No,1,High
+EMP00787,43,Finance,Mid,3.3,4940,No,2,3,9.9,3,9,Yes,0,Needs Improvement
+EMP00788,36,Sales,Senior,4.3,6928,No,4,2,33.2,9,8,Yes,0,High
+EMP00789,30,Finance,Senior,10.2,7738,No,4,3,9.6,2,3,No,0,High
+EMP00790,41,Operations,Entry,8.8,3794,No,4,3,21.0,6,5,Yes,0,High
+EMP00791,50,Engineering,Senior,7.7,7566,No,3,4,41.9,4,6,No,0,Needs Improvement
+EMP00792,45,Sales,Mid,1.0,5062,No,4,2,32.8,3,4,Yes,0,High
+EMP00793,31,Sales,Entry,4.0,2625,Yes,3,3,34.4,3,6,No,1,Needs Improvement
+EMP00794,41,Engineering,Senior,6.8,6793,Yes,2,3,36.2,5,13,No,0,Needs Improvement
+EMP00795,47,Engineering,Senior,11.8,7119,No,4,3,54.1,4,7,No,0,High
+EMP00796,37,Sales,Entry,1.1,3282,No,4,4,18.1,6,5,No,0,High
+EMP00797,35,Engineering,Mid,3.6,5161,Yes,4,4,31.0,4,7,No,0,High
+EMP00798,23,Engineering,Entry,1.4,3142,Yes,3,4,19.6,5,6,Yes,0,Needs Improvement
+EMP00799,39,Finance,Mid,7.1,4794,Yes,4,3,36.6,3,11,Yes,0,High
+EMP00800,46,Operations,Mid,4.6,6063,No,3,4,26.4,3,9,No,0,Needs Improvement
+EMP00801,30,Finance,Mid,4.0,4786,No,4,2,44.2,1,4,Yes,0,High
+EMP00802,42,Sales,Mid,4.7,5269,Yes,3,2,21.7,4,7,Yes,0,Needs Improvement
+EMP00803,36,Human Resources,Entry,0.0,3127,No,3,2,38.1,5,6,No,0,Needs Improvement
+EMP00804,47,Operations,Senior,9.6,7203,No,1,3,35.9,4,6,Yes,0,Needs Improvement
+EMP00805,44,Engineering,Mid,0.7,4371,No,3,4,26.7,8,2,Yes,0,High
+EMP00806,37,Engineering,Senior,7.5,7502,Yes,3,3,35.4,8,4,No,0,Needs Improvement
+EMP00807,23,Operations,Entry,3.7,4628,No,3,3,26.6,9,2,No,0,High
+EMP00808,34,Engineering,Mid,6.0,5511,No,5,3,30.6,3,5,No,1,High
+EMP00809,44,Operations,Mid,6.7,6258,No,2,4,24.9,7,8,No,0,Needs Improvement
+EMP00810,30,Human Resources,Entry,1.6,3519,Yes,3,3,17.0,1,4,No,0,Needs Improvement
+EMP00811,29,Engineering,Entry,4.7,3519,Yes,2,3,20.6,7,6,No,0,Needs Improvement
+EMP00812,25,Engineering,Mid,7.5,5068,Yes,3,2,10.2,6,7,Yes,0,High
+EMP00813,54,Human Resources,Senior,9.7,8239,No,4,3,38.4,1,5,No,0,High
+EMP00814,40,Operations,Entry,4.1,2504,Yes,5,4,11.6,0,5,No,1,High
+EMP00815,47,Engineering,Senior,10.5,8618,No,3,3,27.8,3,6,No,0,High
+EMP00816,45,Human Resources,Mid,4.1,5204,No,3,3,33.5,2,3,Yes,0,High
+EMP00817,46,Human Resources,Senior,5.2,5777,No,2,4,38.4,8,7,Yes,0,High
+EMP00818,36,Operations,Mid,6.3,5230,No,5,3,9.3,5,10,Yes,1,Needs Improvement
+EMP00819,37,Operations,Mid,6.6,5768,Yes,4,4,26.1,3,9,Yes,1,Needs Improvement
+EMP00820,35,Engineering,Mid,7.9,5498,No,3,4,31.6,2,6,Yes,0,Needs Improvement
+EMP00821,62,Engineering,Lead,9.7,9917,Yes,2,3,33.5,8,7,No,0,Needs Improvement
+EMP00822,42,Operations,Mid,2.9,4516,No,2,2,40.4,8,5,Yes,0,High
+EMP00823,35,Sales,Mid,6.3,4748,No,3,5,18.8,9,7,No,0,High
+EMP00824,41,Operations,Mid,5.0,5189,Yes,4,4,6.5,3,11,No,0,High
+EMP00825,35,Finance,Senior,3.9,6942,No,1,3,38.1,4,3,Yes,0,High
+EMP00826,45,Engineering,Entry,2.7,2890,Yes,3,4,18.6,3,12,No,0,Needs Improvement
+EMP00827,33,Operations,Mid,0.6,5245,Yes,5,4,9.4,8,9,No,0,High
+EMP00828,42,Engineering,Mid,2.8,4503,No,3,4,25.4,2,8,Yes,0,Needs Improvement
+EMP00829,53,Finance,Lead,15.4,10486,No,5,3,45.3,10,9,No,0,High
+EMP00830,41,Engineering,Mid,9.8,5907,No,4,3,14.4,6,5,No,0,High
+EMP00831,39,Operations,Mid,2.2,4069,No,2,2,50.4,4,7,No,0,Needs Improvement
+EMP00832,46,Operations,Lead,11.2,9102,No,3,4,24.6,5,4,No,0,High
+EMP00833,38,Sales,Mid,5.3,5271,No,3,3,27.9,3,5,No,0,High
+EMP00834,30,Operations,Entry,6.3,4541,Yes,2,3,11.8,1,7,Yes,0,Needs Improvement
+EMP00835,31,Finance,Entry,0.6,3071,No,2,3,24.4,2,2,No,0,Needs Improvement
+EMP00836,44,Operations,Entry,0.6,2200,Yes,5,3,22.7,3,7,No,0,High
+EMP00837,33,Finance,Entry,5.7,2200,No,2,2,9.1,4,4,No,0,High
+EMP00838,32,Human Resources,Mid,4.3,5497,Yes,4,4,55.3,9,8,No,0,High
+EMP00839,38,Sales,Senior,10.4,7756,Yes,3,4,25.0,6,10,No,1,Needs Improvement
+EMP00840,50,Operations,Senior,4.9,7632,No,3,3,25.1,7,5,No,1,High
+EMP00841,39,Engineering,Entry,1.4,2449,No,4,4,33.7,1,5,Yes,0,Needs Improvement
+EMP00842,42,Finance,Mid,1.1,4874,No,3,4,45.1,4,5,No,0,High
+EMP00843,32,Operations,Entry,0.0,3123,No,4,3,35.3,4,4,Yes,1,High
+EMP00844,50,Sales,Lead,14.1,9930,No,1,2,21.0,5,8,No,0,Needs Improvement
+EMP00845,29,Engineering,Entry,1.7,2716,No,4,2,26.1,4,6,No,0,Needs Improvement
+EMP00846,36,Human Resources,Mid,4.4,5157,Yes,1,3,8.2,4,9,No,0,Needs Improvement
+EMP00847,45,Sales,Mid,3.3,5267,No,3,1,36.0,5,3,No,0,High
+EMP00848,44,Operations,Mid,4.6,5164,No,4,4,10.6,8,6,No,0,High
+EMP00849,31,Engineering,Mid,6.0,5847,No,4,4,19.0,5,6,Yes,0,Needs Improvement
+EMP00850,36,Human Resources,Senior,11.1,7668,Yes,2,3,30.0,5,7,Yes,0,High
+EMP00851,35,Engineering,Entry,0.0,2200,No,2,1,28.5,4,5,Yes,0,Needs Improvement
+EMP00852,54,Engineering,Senior,6.5,8266,No,3,2,27.4,4,4,No,0,High
+EMP00853,25,Finance,Mid,5.6,5004,No,3,3,42.2,4,7,Yes,0,High
+EMP00854,44,Human Resources,Senior,8.4,7250,Yes,1,5,37.2,5,7,No,0,Needs Improvement
+EMP00855,32,Engineering,Senior,9.6,7663,No,3,3,36.4,7,4,Yes,0,High
+EMP00856,42,Sales,Lead,12.7,9998,Yes,4,4,20.7,9,8,No,0,High
+EMP00857,31,Finance,Entry,1.0,2642,No,3,3,41.0,2,3,No,0,High
+EMP00858,31,Finance,Entry,0.5,2759,Yes,4,3,16.0,2,7,No,0,High
+EMP00859,30,Sales,Entry,1.2,2842,Yes,4,4,41.4,3,5,No,0,High
+EMP00860,34,Operations,Entry,4.7,3422,No,3,3,44.2,1,3,No,0,High
+EMP00861,34,Finance,Mid,3.4,3830,Yes,1,3,32.1,3,4,No,0,Needs Improvement
+EMP00862,36,Finance,Lead,11.8,10783,No,3,4,43.3,6,6,No,0,High
+EMP00863,51,Finance,Lead,12.5,9864,No,2,3,2.2,7,7,Yes,0,High
+EMP00864,43,Operations,Mid,9.1,6069,No,3,4,25.0,7,6,Yes,1,Needs Improvement
+EMP00865,44,Engineering,Mid,4.4,4455,No,4,3,38.0,2,3,No,0,High
+EMP00866,31,Human Resources,Senior,11.0,7649,No,5,4,39.2,3,3,No,0,High
+EMP00867,48,Finance,Lead,15.1,9952,Yes,3,3,20.8,2,9,No,0,Needs Improvement
+EMP00868,39,Finance,Entry,1.6,3651,No,4,4,21.1,2,4,No,0,High
+EMP00869,31,Engineering,Mid,4.7,4892,Yes,2,3,2.0,7,8,No,0,High
+EMP00870,42,Engineering,Senior,7.8,7832,Yes,4,3,34.1,4,7,No,1,Needs Improvement
+EMP00871,37,Finance,Mid,4.6,4846,Yes,3,3,8.2,2,5,No,0,High
+EMP00872,51,Engineering,Mid,7.3,5309,No,4,3,38.3,1,4,No,0,High
+EMP00873,59,Human Resources,Lead,12.6,9828,No,3,4,44.8,10,10,No,0,High
+EMP00874,34,Sales,Lead,12.6,10593,No,3,3,28.3,3,9,No,0,Needs Improvement
+EMP00875,59,Operations,Senior,5.8,6238,No,4,2,35.2,8,7,No,0,High
+EMP00876,36,Human Resources,Senior,6.2,6579,No,3,2,27.8,4,11,No,0,Needs Improvement
+EMP00877,41,Sales,Entry,7.2,2698,No,2,2,26.4,1,6,Yes,0,High
+EMP00878,45,Sales,Mid,4.8,4654,Yes,5,4,15.5,4,5,No,0,High
+EMP00879,31,Operations,Mid,3.3,4590,No,2,2,33.2,4,4,No,1,Needs Improvement
+EMP00880,41,Operations,Mid,8.8,4931,No,3,3,10.6,5,10,No,0,Needs Improvement
+EMP00881,37,Sales,Mid,5.9,4979,No,4,3,8.7,5,6,Yes,0,High
+EMP00882,42,Operations,Mid,6.6,4434,Yes,4,3,25.8,3,7,No,0,High
+EMP00883,40,Human Resources,Mid,4.9,4703,No,3,4,24.9,6,6,Yes,0,Needs Improvement
+EMP00884,50,Sales,Senior,7.8,8053,No,3,3,32.7,3,3,No,0,Needs Improvement
+EMP00885,39,Engineering,Mid,4.8,5400,Yes,3,1,20.5,3,6,Yes,1,High
+EMP00886,37,Sales,Mid,1.7,4873,Yes,2,3,45.9,6,3,Yes,0,High
+EMP00887,42,Sales,Entry,1.6,2415,No,5,4,25.6,6,12,No,0,Needs Improvement
+EMP00888,38,Engineering,Entry,2.5,2269,No,3,5,26.3,3,7,No,0,High
+EMP00889,47,Engineering,Senior,13.2,7612,No,4,5,32.0,4,6,Yes,0,High
+EMP00890,33,Operations,Mid,5.4,5257,Yes,3,2,37.0,11,6,No,0,High
+EMP00891,27,Sales,Entry,0.0,3134,No,3,3,29.8,5,2,No,0,High
+EMP00892,38,Human Resources,Senior,8.4,7985,No,3,2,34.4,10,7,Yes,0,High
+EMP00893,34,Engineering,Mid,12.0,6485,No,2,4,34.4,5,8,No,0,High
+EMP00894,40,Engineering,Entry,4.0,2871,No,3,4,5.8,3,4,No,0,Needs Improvement
+EMP00895,45,Finance,Mid,3.2,4994,No,3,3,9.1,4,6,No,0,High
+EMP00896,33,Human Resources,Entry,3.3,2985,Yes,4,3,23.2,3,6,Yes,0,High
+EMP00897,48,Engineering,Mid,3.3,4895,No,2,4,25.0,7,5,Yes,0,Needs Improvement
+EMP00898,44,Engineering,Entry,0.0,3719,No,3,4,29.8,7,7,No,0,High
+EMP00899,36,Engineering,Entry,0.9,2200,No,2,4,24.2,5,7,No,0,Needs Improvement
+EMP00900,28,Operations,Entry,2.0,2853,Yes,5,4,29.8,2,6,Yes,0,High
+EMP00901,49,Sales,Mid,0.5,5223,No,2,3,14.5,4,10,No,0,Needs Improvement
+EMP00902,34,Engineering,Entry,0.0,2200,No,4,4,23.9,3,14,Yes,0,Needs Improvement
+EMP00903,43,Engineering,Senior,8.6,7239,Yes,4,4,16.6,8,6,No,0,High
+EMP00904,32,Sales,Entry,0.8,2543,No,3,3,27.9,6,1,No,0,Needs Improvement
+EMP00905,32,Human Resources,Mid,6.2,5275,No,2,3,8.2,7,3,No,1,High
+EMP00906,28,Operations,Mid,2.2,4049,No,2,4,30.5,1,4,No,0,Needs Improvement
+EMP00907,42,Sales,Mid,7.0,5793,No,4,5,12.3,7,5,Yes,0,High
+EMP00908,29,Engineering,Entry,0.0,3033,No,2,3,20.2,2,5,No,0,High
+EMP00909,62,Engineering,Senior,12.7,8369,No,4,3,38.9,6,7,Yes,1,High
+EMP00910,34,Sales,Senior,4.3,6545,No,3,3,32.3,8,7,No,1,High
+EMP00911,25,Finance,Entry,0.0,2743,Yes,4,4,7.5,5,8,No,1,High
+EMP00912,38,Finance,Entry,2.8,2628,No,4,3,17.3,4,5,Yes,0,High
+EMP00913,53,Human Resources,Senior,12.8,7962,No,2,5,15.0,5,3,Yes,0,High
+EMP00914,38,Human Resources,Mid,6.0,6437,No,2,4,10.1,4,8,Yes,0,Needs Improvement
+EMP00915,38,Human Resources,Entry,3.2,3180,Yes,4,4,25.2,2,7,Yes,0,High
+EMP00916,21,Human Resources,Entry,1.8,2349,No,3,5,29.6,5,4,Yes,0,High
+EMP00917,33,Engineering,Mid,2.6,4991,No,1,3,31.4,4,3,No,0,High
+EMP00918,34,Engineering,Senior,7.4,6723,No,4,3,36.0,3,5,No,0,Needs Improvement
+EMP00919,25,Sales,Mid,2.2,4247,No,2,2,26.9,4,4,No,0,Needs Improvement
+EMP00920,47,Operations,Lead,8.8,8917,No,4,3,30.3,7,4,No,1,High
+EMP00921,22,Engineering,Mid,6.2,5165,No,5,2,16.3,6,7,No,0,High
+EMP00922,29,Finance,Mid,2.4,5342,No,3,4,22.6,2,3,No,0,High
+EMP00923,34,Operations,Mid,6.0,5649,No,4,4,13.8,4,6,No,0,High
+EMP00924,32,Operations,Mid,1.9,5068,No,3,3,18.5,3,5,No,0,Needs Improvement
+EMP00925,37,Engineering,Entry,2.5,2488,No,5,3,24.9,4,7,No,0,High
+EMP00926,36,Engineering,Entry,0.6,2510,Yes,2,4,22.8,2,5,No,0,Needs Improvement
+EMP00927,44,Engineering,Mid,8.7,5861,No,3,2,57.6,7,4,No,0,High
+EMP00928,47,Finance,Senior,9.4,7355,Yes,4,3,16.5,3,8,No,0,High
+EMP00929,42,Operations,Entry,4.9,3222,Yes,3,4,22.7,1,10,No,0,Needs Improvement
+EMP00930,38,Finance,Mid,3.3,5216,No,4,2,12.8,5,5,No,0,High
+EMP00931,40,Sales,Mid,5.3,5091,No,3,4,23.1,2,5,No,0,Needs Improvement
+EMP00932,42,Sales,Mid,2.7,5028,No,5,2,23.5,7,8,Yes,0,High
+EMP00933,43,Sales,Senior,7.6,8222,No,5,3,38.4,7,7,Yes,0,High
+EMP00934,39,Finance,Senior,7.9,7381,No,4,2,25.5,1,10,No,0,High
+EMP00935,40,Finance,Senior,6.8,7908,No,4,4,28.1,6,3,Yes,0,High
+EMP00936,28,Engineering,Entry,0.0,2980,No,4,2,19.7,3,1,No,0,High
+EMP00937,41,Human Resources,Mid,1.7,4046,Yes,2,2,13.0,4,11,Yes,0,Needs Improvement
+EMP00938,37,Engineering,Mid,0.0,3999,No,2,3,20.5,7,9,No,0,High
+EMP00939,29,Human Resources,Entry,0.0,2283,Yes,4,3,20.2,6,9,Yes,0,High
+EMP00940,29,Engineering,Entry,3.4,2732,Yes,4,2,24.7,3,4,No,0,Needs Improvement
+EMP00941,26,Engineering,Entry,0.0,2655,Yes,3,4,29.6,1,10,No,0,Needs Improvement
+EMP00942,45,Finance,Mid,1.8,5100,No,3,2,24.7,3,10,Yes,0,Needs Improvement
+EMP00943,39,Engineering,Mid,9.7,6487,No,1,2,24.5,4,5,Yes,0,Needs Improvement
+EMP00944,28,Sales,Entry,0.2,2881,No,3,3,6.8,0,5,No,0,High
+EMP00945,48,Sales,Senior,9.4,7446,No,3,4,35.4,2,6,No,0,High
+EMP00946,42,Engineering,Lead,13.6,9045,No,4,4,26.0,3,4,No,0,High
+EMP00947,24,Operations,Entry,3.5,3208,Yes,4,4,31.5,8,4,Yes,0,High
+EMP00948,53,Finance,Lead,8.2,9370,No,4,3,46.2,7,1,No,0,High
+EMP00949,30,Finance,Entry,1.2,2953,No,4,1,22.1,3,5,Yes,1,High
+EMP00950,43,Sales,Lead,8.0,10383,No,2,4,22.8,4,12,No,1,Needs Improvement
+EMP00951,46,Operations,Lead,18.1,11314,Yes,4,4,32.8,5,6,No,0,High
+EMP00952,42,Engineering,Entry,0.0,3093,Yes,4,4,27.5,5,8,Yes,0,High
+EMP00953,42,Engineering,Senior,6.0,6729,No,4,4,26.8,6,6,No,0,Needs Improvement
+EMP00954,38,Engineering,Lead,9.4,9263,Yes,5,2,27.4,5,9,No,1,High
+EMP00955,46,Human Resources,Senior,4.9,7014,No,2,3,35.6,4,8,Yes,0,Needs Improvement
+EMP00956,43,Human Resources,Lead,15.4,9941,No,3,5,38.0,3,7,Yes,0,High
+EMP00957,51,Finance,Mid,11.3,6326,Yes,3,2,23.5,2,8,Yes,0,Needs Improvement
+EMP00958,34,Operations,Entry,0.6,2959,Yes,3,2,7.5,4,7,Yes,0,Needs Improvement
+EMP00959,26,Sales,Senior,5.3,6571,No,3,4,34.6,7,3,Yes,0,High
+EMP00960,41,Operations,Mid,0.0,5148,No,3,3,19.3,5,3,No,0,High
+EMP00961,52,Operations,Mid,4.6,5222,No,4,2,29.1,1,7,Yes,0,Needs Improvement
+EMP00962,49,Sales,Mid,4.4,4279,No,2,4,28.5,7,2,No,0,High
+EMP00963,51,Engineering,Mid,3.6,5010,Yes,2,4,8.1,6,7,No,0,Needs Improvement
+EMP00964,27,Engineering,Entry,2.4,3165,No,2,3,24.8,5,3,No,0,High
+EMP00965,48,Human Resources,Senior,9.6,8182,No,3,2,35.1,6,8,No,0,High
+EMP00966,29,Sales,Entry,2.6,2882,Yes,2,5,30.4,2,6,Yes,0,High
+EMP00967,44,Human Resources,Senior,7.8,7867,No,3,3,31.2,5,4,Yes,0,Needs Improvement
+EMP00968,33,Engineering,Senior,5.8,7277,No,3,4,10.2,6,4,Yes,0,High
+EMP00969,33,Operations,Mid,6.9,4824,No,3,4,39.8,5,5,No,0,High
+EMP00970,33,Engineering,Mid,5.2,4544,No,4,3,31.1,2,3,No,0,High
+EMP00971,44,Engineering,Mid,7.4,6110,No,3,3,15.0,6,4,No,0,Needs Improvement
+EMP00972,52,Engineering,Lead,14.0,10738,Yes,4,4,25.1,2,6,Yes,0,High
+EMP00973,44,Engineering,Senior,5.0,7236,Yes,3,4,32.3,3,3,No,0,Needs Improvement
+EMP00974,29,Human Resources,Mid,1.6,5514,No,3,2,33.8,4,2,Yes,0,High
+EMP00975,32,Sales,Entry,0.0,3228,No,3,4,19.1,6,2,No,0,High
+EMP00976,29,Operations,Entry,0.0,3042,No,3,3,32.3,6,7,Yes,0,High
+EMP00977,44,Sales,Mid,7.1,5053,No,4,2,9.1,6,3,Yes,0,High
+EMP00978,54,Sales,Lead,12.9,10857,Yes,3,3,22.6,7,9,No,1,Needs Improvement
+EMP00979,49,Operations,Senior,11.3,8194,Yes,4,2,9.4,5,5,Yes,0,Needs Improvement
+EMP00980,29,Engineering,Entry,2.8,2885,Yes,3,3,15.0,3,2,No,0,Needs Improvement
+EMP00981,23,Human Resources,Senior,9.1,7294,Yes,4,3,45.1,2,9,No,0,Needs Improvement
+EMP00982,26,Finance,Mid,8.2,5785,No,3,3,47.6,7,9,Yes,0,High
+EMP00983,52,Finance,Senior,9.8,6887,No,4,3,32.3,3,2,No,0,Needs Improvement
+EMP00984,31,Sales,Entry,2.0,3320,No,3,2,17.6,1,5,No,0,Needs Improvement
+EMP00985,33,Engineering,Mid,8.9,5275,No,5,5,24.8,5,5,Yes,1,High
+EMP00986,57,Human Resources,Lead,12.3,10096,No,2,4,37.7,6,7,Yes,0,High
+EMP00987,43,Sales,Entry,1.0,2574,Yes,2,5,8.4,4,7,Yes,0,High
+EMP00988,42,Engineering,Senior,6.5,7145,No,3,3,24.3,6,10,Yes,0,High
+EMP00989,44,Sales,Lead,13.8,9735,No,2,3,47.3,5,5,Yes,1,High
+EMP00990,33,Finance,Entry,4.9,3281,No,2,5,13.5,4,10,No,0,High
+EMP00991,36,Operations,Entry,1.7,3874,No,4,3,16.5,3,5,No,0,High
+EMP00992,49,Finance,Mid,8.5,6390,Yes,3,3,27.1,7,8,No,0,Needs Improvement
+EMP00993,41,Finance,Mid,0.3,4768,No,3,4,29.8,4,10,No,0,High
+EMP00994,39,Engineering,Entry,1.7,2917,Yes,3,2,17.7,4,4,No,0,Needs Improvement
+EMP00995,46,Human Resources,Mid,5.1,5661,No,3,4,27.8,6,6,No,0,High
+EMP00996,34,Sales,Senior,6.8,7883,Yes,5,4,36.1,8,5,Yes,0,High
+EMP00997,39,Operations,Entry,7.8,3338,Yes,3,4,43.6,4,8,Yes,0,Needs Improvement
+EMP00998,36,Engineering,Mid,5.0,5186,Yes,2,4,25.7,5,9,No,0,High
+EMP00999,24,Human Resources,Senior,7.6,6515,No,4,4,29.6,7,3,No,0,High
+EMP01000,23,Sales,Mid,5.3,5827,No,3,3,42.3,3,5,No,0,High

@@ -1,0 +1,251 @@
+employee_id,predicted_performance,high_performance_probability,actual_performance
+EMP00569,High,0.645364,High
+EMP00012,High,0.560343,Needs Improvement
+EMP00490,Needs Improvement,0.261278,Needs Improvement
+EMP00612,Needs Improvement,0.453251,Needs Improvement
+EMP00314,High,0.726883,High
+EMP00658,Needs Improvement,0.458885,High
+EMP00124,High,0.601289,High
+EMP00584,Needs Improvement,0.188497,High
+EMP00412,Needs Improvement,0.229512,Needs Improvement
+EMP00467,Needs Improvement,0.469645,High
+EMP00291,High,0.537139,Needs Improvement
+EMP00138,Needs Improvement,0.400554,High
+EMP00283,Needs Improvement,0.472727,High
+EMP00156,High,0.653107,High
+EMP00948,High,0.859837,High
+EMP00597,High,0.55128,High
+EMP00166,High,0.792682,Needs Improvement
+EMP00361,Needs Improvement,0.30315,High
+EMP00708,High,0.800037,High
+EMP00836,Needs Improvement,0.439657,High
+EMP00419,Needs Improvement,0.250258,High
+EMP00217,Needs Improvement,0.479436,Needs Improvement
+EMP00711,High,0.69936,High
+EMP00145,High,0.538583,High
+EMP00002,Needs Improvement,0.315567,Needs Improvement
+EMP00167,High,0.854308,High
+EMP00315,Needs Improvement,0.419062,High
+EMP00720,High,0.672396,High
+EMP00022,High,0.910173,High
+EMP00571,High,0.614015,High
+EMP00722,High,0.69619,Needs Improvement
+EMP00608,Needs Improvement,0.157352,Needs Improvement
+EMP00791,High,0.562572,Needs Improvement
+EMP00994,Needs Improvement,0.215731,Needs Improvement
+EMP00360,Needs Improvement,0.323437,High
+EMP00413,High,0.846938,Needs Improvement
+EMP00910,High,0.749702,High
+EMP00793,Needs Improvement,0.377918,Needs Improvement
+EMP00206,Needs Improvement,0.374114,Needs Improvement
+EMP00918,High,0.668114,Needs Improvement
+EMP00096,High,0.647487,Needs Improvement
+EMP00884,High,0.536893,Needs Improvement
+EMP00746,High,0.647062,High
+EMP00769,Needs Improvement,0.394492,High
+EMP00693,Needs Improvement,0.375538,Needs Improvement
+EMP00513,Needs Improvement,0.455869,High
+EMP00745,High,0.574263,High
+EMP00392,High,0.749356,High
+EMP00254,High,0.501377,Needs Improvement
+EMP00305,Needs Improvement,0.49496,Needs Improvement
+EMP00527,Needs Improvement,0.427884,High
+EMP00642,Needs Improvement,0.36715,High
+EMP00697,Needs Improvement,0.236385,Needs Improvement
+EMP00375,High,0.665152,High
+EMP00873,High,0.629855,High
+EMP00731,High,0.679035,High
+EMP00674,Needs Improvement,0.336037,Needs Improvement
+EMP00426,High,0.872254,High
+EMP00350,High,0.541606,High
+EMP00926,Needs Improvement,0.177271,Needs Improvement
+EMP00212,Needs Improvement,0.429696,Needs Improvement
+EMP00818,High,0.738182,Needs Improvement
+EMP00066,High,0.930289,High
+EMP00729,Needs Improvement,0.197675,Needs Improvement
+EMP00750,Needs Improvement,0.260743,High
+EMP00023,Needs Improvement,0.468495,High
+EMP00876,Needs Improvement,0.327551,Needs Improvement
+EMP00232,Needs Improvement,0.487853,High
+EMP00159,High,0.839715,Needs Improvement
+EMP00104,High,0.639114,High
+EMP00297,Needs Improvement,0.353596,Needs Improvement
+EMP00562,Needs Improvement,0.428403,Needs Improvement
+EMP00738,High,0.568368,High
+EMP00679,High,0.533742,High
+EMP00332,Needs Improvement,0.347293,Needs Improvement
+EMP00933,High,0.839195,High
+EMP00047,High,0.507415,High
+EMP00008,Needs Improvement,0.406612,High
+EMP00058,Needs Improvement,0.367629,High
+EMP00732,Needs Improvement,0.419562,High
+EMP00799,Needs Improvement,0.422321,High
+EMP00838,High,0.679228,High
+EMP00192,Needs Improvement,0.485225,High
+EMP00501,High,0.691937,High
+EMP00789,High,0.736013,High
+EMP00992,Needs Improvement,0.398159,Needs Improvement
+EMP00014,High,0.674531,Needs Improvement
+EMP00590,Needs Improvement,0.224031,High
+EMP00974,High,0.530734,High
+EMP00604,High,0.520745,Needs Improvement
+EMP00039,Needs Improvement,0.274501,High
+EMP00447,High,0.638502,High
+EMP00751,Needs Improvement,0.385275,High
+EMP00812,Needs Improvement,0.328981,High
+EMP00938,Needs Improvement,0.297521,High
+EMP00890,High,0.586589,High
+EMP00278,Needs Improvement,0.476393,Needs Improvement
+EMP00922,High,0.61215,High
+EMP00902,Needs Improvement,0.358041,Needs Improvement
+EMP00031,High,0.654365,High
+EMP00082,High,0.87734,High
+EMP00306,High,0.606738,High
+EMP00748,Needs Improvement,0.138897,High
+EMP00602,High,0.502635,High
+EMP00116,Needs Improvement,0.439815,Needs Improvement
+EMP00783,Needs Improvement,0.43099,Needs Improvement
+EMP00579,High,0.693331,High
+EMP00854,Needs Improvement,0.287685,Needs Improvement
+EMP00863,Needs Improvement,0.493966,High
+EMP00728,High,0.761341,High
+EMP00478,Needs Improvement,0.248061,High
+EMP00802,Needs Improvement,0.240131,Needs Improvement
+EMP00257,Needs Improvement,0.327669,Needs Improvement
+EMP00336,High,0.757308,High
+EMP00851,Needs Improvement,0.22664,Needs Improvement
+EMP00976,High,0.576042,High
+EMP00081,Needs Improvement,0.286984,Needs Improvement
+EMP00143,High,0.737867,High
+EMP00842,High,0.630356,High
+EMP00800,Needs Improvement,0.386703,Needs Improvement
+EMP00115,Needs Improvement,0.421635,Needs Improvement
+EMP00114,High,0.758231,High
+EMP00122,High,0.609285,High
+EMP00358,High,0.782875,High
+EMP00149,High,0.64845,High
+EMP00617,Needs Improvement,0.2227,Needs Improvement
+EMP00282,Needs Improvement,0.452507,High
+EMP00705,High,0.528294,High
+EMP00146,High,0.552267,Needs Improvement
+EMP00050,Needs Improvement,0.460874,High
+EMP00777,Needs Improvement,0.351076,Needs Improvement
+EMP00950,Needs Improvement,0.352475,Needs Improvement
+EMP00290,High,0.56696,Needs Improvement
+EMP00434,High,0.502151,High
+EMP00236,High,0.505727,High
+EMP00482,Needs Improvement,0.347077,High
+EMP00230,High,0.607495,High
+EMP00566,High,0.542818,High
+EMP00247,High,0.623585,Needs Improvement
+EMP00474,Needs Improvement,0.47148,Needs Improvement
+EMP00422,Needs Improvement,0.312869,High
+EMP00557,High,0.752429,High
+EMP00376,Needs Improvement,0.37297,High
+EMP00516,High,0.517007,Needs Improvement
+EMP00190,Needs Improvement,0.207856,High
+EMP00197,High,0.519131,High
+EMP00308,Needs Improvement,0.444369,High
+EMP00517,Needs Improvement,0.206884,High
+EMP00971,Needs Improvement,0.474368,Needs Improvement
+EMP00752,Needs Improvement,0.068637,Needs Improvement
+EMP00687,Needs Improvement,0.431953,High
+EMP00780,High,0.590233,High
+EMP00245,Needs Improvement,0.478672,High
+EMP00837,Needs Improvement,0.346052,High
+EMP00655,High,0.626617,High
+EMP00323,Needs Improvement,0.342569,Needs Improvement
+EMP00622,Needs Improvement,0.252917,High
+EMP00544,Needs Improvement,0.400812,High
+EMP00695,High,0.642584,High
+EMP00688,High,0.777496,High
+EMP00782,High,0.581738,Needs Improvement
+EMP00201,High,0.712246,High
+EMP00709,Needs Improvement,0.455069,High
+EMP00418,High,0.581795,High
+EMP00390,High,0.539451,High
+EMP00987,Needs Improvement,0.23173,High
+EMP00683,High,0.597382,High
+EMP00378,High,0.635803,High
+EMP00813,High,0.507135,High
+EMP00587,High,0.754626,High
+EMP00337,Needs Improvement,0.482548,High
+EMP00998,Needs Improvement,0.215235,High
+EMP00848,High,0.722494,High
+EMP00672,Needs Improvement,0.181275,Needs Improvement
+EMP00289,Needs Improvement,0.494067,High
+EMP00092,High,0.660185,High
+EMP00252,High,0.61167,High
+EMP00871,Needs Improvement,0.302463,High
+EMP00706,High,0.833426,High
+EMP00591,Needs Improvement,0.123932,High
+EMP00867,Needs Improvement,0.293566,Needs Improvement
+EMP00754,High,0.675905,High
+EMP00127,High,0.643391,Needs Improvement
+EMP00827,High,0.665211,High
+EMP00947,High,0.780904,High
+EMP00581,High,0.677322,High
+EMP00586,High,0.553526,Needs Improvement
+EMP00852,Needs Improvement,0.409908,High
+EMP00398,Needs Improvement,0.298791,High
+EMP00032,High,0.556776,High
+EMP00450,Needs Improvement,0.312508,Needs Improvement
+EMP00572,High,0.574231,High
+EMP00414,High,0.729265,High
+EMP00736,High,0.765888,High
+EMP00942,Needs Improvement,0.313315,Needs Improvement
+EMP00819,High,0.559615,Needs Improvement
+EMP00661,High,0.55378,Needs Improvement
+EMP00507,High,0.556677,Needs Improvement
+EMP00911,High,0.599721,High
+EMP00162,Needs Improvement,0.276912,Needs Improvement
+EMP00633,Needs Improvement,0.281401,Needs Improvement
+EMP00618,High,0.598521,High
+EMP00889,High,0.775807,High
+EMP00030,Needs Improvement,0.403402,Needs Improvement
+EMP00847,Needs Improvement,0.40279,High
+EMP00374,Needs Improvement,0.375159,Needs Improvement
+EMP00335,Needs Improvement,0.372548,Needs Improvement
+EMP00763,High,0.609058,High
+EMP00993,Needs Improvement,0.457961,High
+EMP00049,High,0.691592,High
+EMP00963,Needs Improvement,0.189224,Needs Improvement
+EMP00225,High,0.617135,High
+EMP00742,Needs Improvement,0.228009,High
+EMP00448,High,0.673072,High
+EMP00238,Needs Improvement,0.461284,Needs Improvement
+EMP00440,High,0.528864,High
+EMP00583,Needs Improvement,0.28085,High
+EMP00265,High,0.739453,Needs Improvement
+EMP00678,High,0.592669,High
+EMP00774,High,0.669436,High
+EMP00182,Needs Improvement,0.412369,High
+EMP00784,Needs Improvement,0.215174,Needs Improvement
+EMP00628,Needs Improvement,0.376126,High
+EMP00147,High,0.732197,High
+EMP00969,High,0.679532,High
+EMP00285,High,0.879242,High
+EMP00896,Needs Improvement,0.372787,High
+EMP00233,Needs Improvement,0.255462,Needs Improvement
+EMP00610,Needs Improvement,0.276375,High
+EMP00244,Needs Improvement,0.298915,Needs Improvement
+EMP00843,High,0.761838,High
+EMP00372,High,0.861977,High
+EMP00157,Needs Improvement,0.172178,Needs Improvement
+EMP00524,High,0.878334,High
+EMP00003,High,0.803605,High
+EMP00681,High,0.547831,Needs Improvement
+EMP00686,High,0.568032,High
+EMP00480,Needs Improvement,0.407407,High
+EMP00685,Needs Improvement,0.189173,Needs Improvement
+EMP00072,High,0.543825,High
+EMP00744,Needs Improvement,0.325645,Needs Improvement
+EMP00651,High,0.701157,High
+EMP00129,Needs Improvement,0.258181,Needs Improvement
+EMP00155,High,0.855758,High
+EMP00521,High,0.594306,High
+EMP00565,High,0.693495,High
+EMP00132,Needs Improvement,0.487091,High
+EMP00090,High,0.665293,High
+EMP00917,Needs Improvement,0.284437,High
+EMP00333,High,0.604737,High

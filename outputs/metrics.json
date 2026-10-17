@@ -1,0 +1,74 @@
+{
+  "project_name": "Employee Performance Predictor using Data Analytics",
+  "random_seed": 42,
+  "n_samples": 1000,
+  "test_size": 0.25,
+  "target_column": "performance_label",
+  "feature_columns": [
+    "age",
+    "department",
+    "job_level",
+    "years_at_company",
+    "monthly_income",
+    "overtime",
+    "job_satisfaction",
+    "work_life_balance",
+    "training_hours_last_year",
+    "projects_completed",
+    "absenteeism_days",
+    "remote_work",
+    "promotion_last_3_years"
+  ],
+  "accuracy": 0.644,
+  "precision": 0.6920999999999999,
+  "recall": 0.644,
+  "f1_score": 0.6542682655786105,
+  "roc_auc": 0.7140177476372557,
+  "n_test_samples": 250,
+  "classes": [
+    "High",
+    "Needs Improvement"
+  ],
+  "positive_label": "High",
+  "confusion_matrix_labels": [
+    "Needs Improvement",
+    "High"
+  ],
+  "confusion_matrix": [
+    [
+      57,
+      26
+    ],
+    [
+      63,
+      104
+    ]
+  ],
+  "classification_report": {
+    "Needs Improvement": {
+      "precision": 0.475,
+      "recall": 0.6867469879518072,
+      "f1-score": 0.5615763546798029,
+      "support": 83.0
+    },
+    "High": {
+      "precision": 0.8,
+      "recall": 0.6227544910179641,
+      "f1-score": 0.7003367003367004,
+      "support": 167.0
+    },
+    "accuracy": 0.644,
+    "macro avg": {
+      "precision": 0.6375,
+      "recall": 0.6547507394848857,
+      "f1-score": 0.6309565275082516,
+      "support": 250.0
+    },
+    "weighted avg": {
+      "precision": 0.6920999999999999,
+      "recall": 0.644,
+      "f1-score": 0.6542682655786105,
+      "support": 250.0
+    }
+  }
+}

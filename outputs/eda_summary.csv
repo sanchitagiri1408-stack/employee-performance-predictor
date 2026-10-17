@@ -1,0 +1,32 @@
+analysis,group,metric,value
+dataset_shape,all,row_count,1000.0
+dataset_shape,all,column_count,15.0
+target_distribution,High,employee_count,668.0
+target_distribution,High,percentage,66.8
+target_distribution,Needs Improvement,employee_count,332.0
+target_distribution,Needs Improvement,percentage,33.2
+department_summary,Engineering,employee_count,285.0
+department_summary,Engineering,high_performance_rate,62.807
+department_summary,Engineering,average_training_hours,27.101
+department_summary,Engineering,average_job_satisfaction,3.232
+department_summary,Engineering,average_absenteeism_days,6.0
+department_summary,Finance,employee_count,168.0
+department_summary,Finance,high_performance_rate,72.024
+department_summary,Finance,average_training_hours,26.66
+department_summary,Finance,average_job_satisfaction,3.25
+department_summary,Finance,average_absenteeism_days,5.917
+department_summary,Human Resources,employee_count,118.0
+department_summary,Human Resources,high_performance_rate,65.254
+department_summary,Human Resources,average_training_hours,27.402
+department_summary,Human Resources,average_job_satisfaction,3.102
+department_summary,Human Resources,average_absenteeism_days,5.61
+department_summary,Operations,employee_count,211.0
+department_summary,Operations,high_performance_rate,67.773
+department_summary,Operations,average_training_hours,25.948
+department_summary,Operations,average_job_satisfaction,3.327
+department_summary,Operations,average_absenteeism_days,5.777
+department_summary,Sales,employee_count,218.0
+department_summary,Sales,high_performance_rate,67.89
+department_summary,Sales,average_training_hours,27.011
+department_summary,Sales,average_job_satisfaction,3.307
+department_summary,Sales,average_absenteeism_days,5.913

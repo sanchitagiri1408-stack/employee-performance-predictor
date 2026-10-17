@@ -1,0 +1,41 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.secret
+
+# Notebook, editor, and operating-system state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Generated model and analysis artifacts
+models/*
+outputs/*
+data/processed/*
+
+# Preserve folder intent without committing generated contents
+!models/.gitkeep
+!outputs/.gitkeep
+!data/processed/.gitkeep
+
+# Evidence screenshots are documentation and may be committed after review.
+docs/evidence/*.tmp
