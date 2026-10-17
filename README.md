@@ -217,3 +217,7 @@ Potential next steps include stronger data contracts, reproducible configuration
 ## License
 
 The repository includes an MIT license template in [`LICENSE`](LICENSE). Replace the placeholder copyright holder before publishing under that license, and verify that the dependency licenses are compatible.
+
+## Author
+*Sanchita Giri* — 3rd Year CSE Student, Jawaharlal Darda Institute of Engineering & Technology, Yavatmal  
+[LinkedIn](linkedin.com/in/sanchita-vijay-giri-28563b3b0) 
